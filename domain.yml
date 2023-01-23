@@ -1,0 +1,344 @@
+version: "3.1"
+
+intents:
+  - WhatisaWeb3Training&ComplianceSystem
+  - Howdoesitdifferfromtraditionalsolutions
+  - Howwillithelptheconstructionvillageresidents
+  - Whatsafetyapparelisrequiredforworkersintheconstructionvillage
+  - Whatsafetyproceduresmustbefollowedintheconstructionvillage
+  - Arethereanyrestrictionsonaccesstotheconstructionvillage
+  - Whatemergencyproceduresshouldbefollowedincaseofaconstructionincident
+  - HowcanIreportincidentsthatoccurintheconstructionvillage
+  - Isthereasecurityteampresentintheconstructionvillage
+  - Whoisresponsibleforenforcingsafetyandsecurityregulationsintheconstructionvillage
+  - Whataresomecommonsafetyhazardspresentinaconstructionvillageenvironment
+  - HowcanIprotectmyselffrompotentialhazardswhileworkingattheconstructionsite
+  - Arethereanyspecificrulesregardingnoiselevelsthatmustbeadheredtowithintheconstructionvillageboundaries
+  - Whatstepsshouldbetakenifanaccidentoccursataworksitewithintheconstructionvillageboundaries
+  - AreAI-PoweredinformationAvatarsreliable
+  - WhatisaConstructionVillageAI-PoweredInformationAvatar
+  - HowwillAI-PoweredInformationAvatarhelptheresidentsofaconstructionvillage
+  - Arethereanyrulesorregulationsregardingsmokingwithintheconfinesofaconstructionvillageenvironment
+  - Arevehiclesallowedinsideofaconstructionvillage,andifso,whataresomeoftheregulationssurroundingtheirusetherein
+  - Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment
+  - Whatkindoftrainingdoworkersreceivebeforetheyareallowedtoworkinaconstructionvillageenvironment
+  - Howoftenshouldfireextinguishersandotheremergencyequipmentbeinspectedandmaintainedwithinaconstructionvillageenvironment
+  - Arethereanyspecialrulesorregulationsregardingwastemanagementthatmustbefollowedwhenworkinginaconstructionvillageenvironment
+  - HowdoIaccesscleaningservicesinaconstructionvillage(SaudiArabia)
+  - Istherealaundryserviceavailableintheconstructionvillage
+  - HowcanIgetaroundtheconstructionvillagesafely
+  - Arethereanyentertainmentoractivitiesavailableinthevillage
+  - WherecanIfindnewsandupdatesabouttheconstructionvillage
+  - Howoftenarequarterscleanedbystaffmembersattheconstructionvillage
+  - Arevisitorsallowedtoenterintoandstayovernightintheconstructionvillage
+  - Arethereanyspecificrulesorregulationsthatmustbefollowedwhilelivinginaconstructionvillage
+
+
+
+
+responses:
+
+  utter_WhatisaWeb3Training&ComplianceSystem1:
+  - text: A Web3 Training & Compliance System is a system that helps businesses stay compliant with industry regulations while introducing Web3 technology into their operations.
+  utter_WhatisaWeb3Training&ComplianceSystem2:
+  - text: Web3 Training & Compliance Systems provide businesses with the necessary skills and knowledge to adapt to rapidly evolving technologies such as smart contracts, Solidity, and new software concepts.
+  utter_WhatisaWeb3Training&ComplianceSystem3:
+  - text: With a Web3 Training & Compliance System, businesses can take courses to gain the skills needed to use blockchain development, Ethereum, and other related technologies.
+
+
+  utter_Howdoesitdifferfromtraditionalsolutions1:
+  - text: Web3 Training & Compliance System is a decentralized system that allows users to interact directly with each other without the need for an intermediary. This means that transactions are more secure and efficient, as there is no single point of failure. Additionally, Web3 offers a range of courses and certifications to help users stay up-to-date on the latest technologies and trends in the industry.
+  utter_Howdoesitdifferfromtraditionalsolutions2:
+  - text: Web3 Training & Compliance System provides users with access to a wide range of courses and certifications, which can help them stay ahead of the curve when it comes to new technologies and trends in the industry. Additionally, its decentralized nature makes it more secure than traditional solutions, as there is no single point of failure.
+  utter_Howdoesitdifferfromtraditionalsolutions3:
+  - text: With Web3 Training & Compliance System, users can benefit from a range of courses and certifications that will help them stay up-to-date on the latest technologies and trends in the industry. Furthermore, its decentralized nature ensures that transactions are more secure and efficient than traditional solutions due to its lack of a single point of failure.
+
+
+  utter_Howwillithelptheconstructionvillageresidents1:
+  - text: Web3 Training & Compliance System will enable construction village residents to access secure training resources and certifications that will help them stay up-to-date with the latest technologies and trends in the industry.
+  utter_Howwillithelptheconstructionvillageresidents2:
+  - text: With Web3 Training & Compliance System, construction village residents can benefit from enhanced privacy features such as zero-knowledge proofs and cryptographic techniques which allow users to safely share their personal data without worrying about it being compromised.
+  utter_Howwillithelptheconstructionvillageresidents3:
+  - text: Web3 Training & Compliance System can help construction village residents by providing them with the necessary skills and knowledge to adapt to rapidly changing technologies. It covers topics such as smart contracts, Solidity, and other software concepts that are essential for staying up-to-date in the industry.
+  utter_Howwillithelptheconstructionvillageresidents4:
+  - text: Web3 Training & Compliance System also offers online courses from LinkedIn Learning (formerly Lynda.com) which provide construction village residents with the skills they need to stay competitive in their field.
+  utter_Howwillithelptheconstructionvillageresidents5:
+  - text: Additionally, Web3 University provides comprehensive educational resources on blockchain development with tutorials across the web3 ecosystem. This is a great way for construction village residents to learn more about blockchain technology and how it can be applied in their work."
+  utter_Howwillithelptheconstructionvillageresidents6:
+  - text: By utilizing immutable ledger technology, Web3 Training & Compliance System ensures that the data is stored securely, making it difficult for malicious actors to tamper with or access sensitive information. This improves safety by reducing the chance of a security breach.
+
+
+  utter_Whatsafetyapparelisrequiredforworkersintheconstructionvillage1:
+  - text: Construction workers should always wear hard hats, safety glasses or sunglasses, earplugs or muffs, gloves, UPF shirts, sweatshirts, ANSI vests, work jackets and pants, and tool belts to ensure their safety while on the job.
+  utter_Whatsafetyapparelisrequiredforworkersintheconstructionvillage2:
+  - text: It is important for construction workers to wear proper protective gear such as high visibility safety vests with reflective striping and steel or composite-toe boots to prevent any potential injuries. 
+  utter_Whatsafetyapparelisrequiredforworkersintheconstructionvillage3:
+  - text: Maintenance personnel are expected to report to work wearing uniforms provided by their employer which usually include shirts and other protective clothing items such as work suits or work pants.
+
+
+  utter_Whatsafetyproceduresmustbefollowedintheconstructionvillage1: 
+  - text: All construction sites must have a project safety plan in place that outlines the safety procedures to be followed. This plan should include the use of personal protective equipment, proper training for workers, and regular inspections of the worksite.
+  utter_Whatsafetyproceduresmustbefollowedintheconstructionvillage2:
+  - text: Workers must also be aware of their surroundings and follow all posted signs and warnings regarding potential hazards. Additionally, workers should use caution when operating machinery or using tools to ensure that they are not putting themselves or others at risk.
+  utter_Whatsafetyproceduresmustbefollowedintheconstructionvillage3:
+  - text: All workers should be familiar with emergency protocols in case of an accident or injury onsite. These protocols should include how to contact emergency services and how to provide first aid if necessary.
+
+
+  utter_Arethereanyrestrictionsonaccesstotheconstructionvillage1:
+  - text: Yes, access to the construction village is restricted and you will need to sign up or take a demo tour in order to gain access.
+  utter_Arethereanyrestrictionsonaccesstotheconstructionvillage2:
+  - text: Depending on the village, there may be certain restrictions on access due to ongoing construction projects or maintenance activities.
+  utter_Arethereanyrestrictionsonaccesstotheconstructionvillage3:
+  - text: It's also important to check any local zoning maps that may be applicable as they can restrict access in certain areas.
+
+
+  utter_Whatemergencyproceduresshouldbefollowedincaseofaconstructionincident1:
+  - text: In case of a construction incident, it is important to follow the emergency action plan that has been developed for the specific construction site. This plan should include procedures for evacuation, type of evacuation, exit route assignments and other relevant information.
+  utter_Whatemergencyproceduresshouldbefollowedincaseofaconstructionincident2:
+  - text: It is also important to stay calm and assess the situation before taking command and providing protection. Aid and manage as necessary to ensure everyone’s safety. 
+  utter_Whatemergencyproceduresshouldbefollowedincaseofaconstructionincident3:
+  - text: Emergency response plans should also include selecting a responsible individual to lead and coordinate the emergency plan and evacuation, as well as identifying potential hazards that could affect the construction project.
+  
+  
+  utter_HowcanIreportincidentsthatoccurintheconstructionvillage1:
+  - text: You can report incidents by contacting the local authorities or the facility directly.
+  utter_HowcanIreportincidentsthatoccurintheconstructionvillage2:
+  - text: Incidents in Saudi Arabia can be reported to the police or the Ministry of Interior. Additionally, the government has recently launched a portal for citizens and residents to report incidents anonymously. The portal is called ‘Tawasul’ and can be accessed via www.tawasul.gov.sa or by downloading the app from Google Play or App Store.To report an incident through ‘Tawasul’, web users must first create an account by providing their name, email address, and phone number. Once this is completed, they will be able to select either a general (location-based) or specific category for filing reports about incidents such as road accidents, security issues, scams or frauds, noise pollution, etc.. After submitting a report, users will receive updates on its progress.
+  
+  
+  utter_Isthereasecurityteampresentintheconstructionvillage1:
+  - text: Yes, there is a security team present in the construction village to ensure safety and security.
+  utter_Isthereasecurityteampresentintheconstructionvillage2:
+  - text: The construction village has a security team in place to address any incidents that may occur.
+  utter_Isthereasecurityteampresentintheconstructionvillage3:
+  - text: A dedicated security team is available to protect the construction village and ensure the safety of all occupants.
+
+
+  utter_Whoisresponsibleforenforcingsafetyandsecurityregulationsintheconstructionvillage1:
+  - text: The security team in the construction village is responsible for upholding safety and security protocols.
+  utter_Whoisresponsibleforenforcingsafetyandsecurityregulationsintheconstructionvillage2:
+  - text: Village authorities are charged with enforcing safety and security regulations in the construction village.
+  utter_Whoisresponsibleforenforcingsafetyandsecurityregulationsintheconstructionvillage3:
+  - text: All visitors to the construction village must adhere to safety regulations as set out by the security team.
+
+
+  utter_Whataresomecommonsafetyhazardspresentinaconstructionvillageenvironment1:
+  - text: Electrical shocks and explosions can also be hazardous in construction villages, so contractors and/or safety professionals should ensure that everyone is aware of these risks and follows OSHA regulations to protect against them. 
+  utter_Whataresomecommonsafetyhazardspresentinaconstructionvillageenvironment2:
+  - text: Material handling is another common safety hazard in construction villages, as workers may be required to move or lift heavy objects.
+  utter_Whataresomecommonsafetyhazardspresentinaconstructionvillageenvironment3:
+  - text: Falls are one of the most common safety hazards present in a construction village environment. Workers should always use personal fall arrest systems, such as wearing a safety harness or installing guardrails, when working 6 feet or higher above the ground.
+  
+  
+  
+  utter_HowcanIprotectmyselffrompotentialhazardswhileworkingattheconstructionsite1:
+  - text: Always wear the proper Personal Protective Equipment (PPE) such as hard hats, safety glasses, gloves, and steel-toed boots when working at a construction site.
+  utter_HowcanIprotectmyselffrompotentialhazardswhileworkingattheconstructionsite2:
+  - text: Be mindful of any warning signs or instructions posted in the work area and follow them accordingly.
+  utter_HowcanIprotectmyselffrompotentialhazardswhileworkingattheconstructionsite3:
+  - text: Make sure to keep the work area tidy and organized to avoid potential hazards such as tripping over debris or tools
+
+  utter_Arethereanyspecificrulesregardingnoiselevelsthatmustbeadheredtowithintheconstructionvillageboundaries1:
+  - text: Yes, noise levels must be kept to a minimum in accordance with the local ordinances of the construction village.
+  utter_Arethereanyspecificrulesregardingnoiselevelsthatmustbeadheredtowithintheconstructionvillageboundaries2:
+  - text: All construction activities should be carried out during designated hours to minimize disturbance to the residents of the village.
+  utter_Arethereanyspecificrulesregardingnoiselevelsthatmustbeadheredtowithintheconstructionvillageboundaries3:
+  - text: It is important that all construction workers adhere to the noise level regulations set by the local authorities in order to maintain a peaceful environment for all inhabitants of the village.
+
+
+
+
+  utter_Whatstepsshouldbetakenifanaccidentoccursataworksitewithintheconstructionvillageboundaries1:
+  - text: Immediately contact the appropriate authorities such as the police, fire department or emergency medical services to ensure that everyone involved in the accident is safe and secure.
+  utter_Whatstepsshouldbetakenifanaccidentoccursataworksitewithintheconstructionvillageboundaries2:
+  - text: Document any evidence of the accident such as photos, videos, witness statements and other relevant information to help with any legal proceedings.
+  utter_Whatstepsshouldbetakenifanaccidentoccursataworksitewithintheconstructionvillageboundaries3:
+  - text: Seek medical attention for anyone who was injured during the accident and contact a lawyer who specializes in construction site accidents to help protect your rights.
+
+  utter_AreAI-PoweredinformationAvatarsreliable1:
+  - text: Absolutely! AI-Powered information Avatars are designed to provide reliable and accurate information.
+  utter_AreAI-PoweredinformationAvatarsreliable2:
+  - text: Yes, AI-Powered information Avatars are powered by advanced artificial intelligence technology that is constantly learning and adapting to provide the most up-to-date and accurate information.
+  utter_AreAI-PoweredinformationAvatarsreliable3:
+  - text: Rest assured, AI-Powered information Avatars are highly reliable sources of information that you can trust.
+  
+  
+  utter_WhatisaConstructionVillageAI-PoweredInformationAvatar1:
+  - text: As a Construction Village AI-Powered Information Avatar, I can help you with all your construction needs. I am powered by artificial intelligence and deep-domain understanding, so I can read, learn, and understand all unstructured information related to the construction industry. My capabilities include providing interactive avatars that look like real humans and can interact with users in a human-like manner. Additionally, I have access to the latest technology such as flying taxis, robotic avatars, holograms and more.
+  utter_WhatisaConstructionVillageAI-PoweredInformationAvatar2:
+  - text: A Construction Village AI-Powered Information Avatar is a virtual assistant that uses artificial intelligence (AI) to provide information about construction projects. It can answer questions, provide insights, and help you make decisions about your project.
+  utter_WhatisaConstructionVillageAI-PoweredInformationAvatar3:
+  - text: An AI-Powered Information Avatar is an automated system that uses advanced algorithms and machine learning to understand user queries and provide relevant answers. It can be used for a variety of tasks such as providing project updates, giving advice on best practices, and helping with decision making.
+  utter_WhatisaConstructionVillageAI-PoweredInformationAvatar4:
+  - text: AI-Powered Information Avatars are designed to help streamline the construction process by providing real-time data and insights into projects. They can also help reduce costs by automating mundane tasks and providing more accurate estimates for materials and labor costs. 
+
+
+
+  utter_HowwillAI-PoweredInformationAvatarhelptheresidentsofaconstructionvillage1:
+  - text: AI-Powered Information Avatar can help the residents of a construction village by providing them with access to real-time information about the progress of their projects, as well as any updates or changes that may be occurring. This will enable them to stay informed and make better decisions for their future.
+  utter_HowwillAI-PoweredInformationAvatarhelptheresidentsofaconstructionvillage2:
+  - text: AI-Powered Information Avatar can also provide the residents of a construction village with personalized advice and guidance on how to best manage their projects and resources. This will help them maximize their efficiency and ensure that they are making the most out of their investments.
+  utter_HowwillAI-PoweredInformationAvatarhelptheresidentsofaconstructionvillage3:
+  - text: AI-Powered Information Avatar can also provide the residents of a construction village with access to virtual assistants who can answer questions, provide support, and even offer suggestions on how to improve their projects. This will help them save time and money while ensuring that they are getting the best results from their efforts.
+
+
+
+  utter_Arethereanyrulesorregulationsregardingsmokingwithintheconfinesofaconstructionvillageenvironment1:
+  - text: Yes, there are regulations regarding smoking in construction villages. Smoking is prohibited in all enclosed facilities and buildings, as well as on the premises of the village.
+  utter_Arethereanyrulesorregulationsregardingsmokingwithintheconfinesofaconstructionvillageenvironment2:
+  - text: It is important to adhere to the local smoking regulations for construction villages in order to ensure a safe environment for everyone involved.
+  utter_Arethereanyrulesorregulationsregardingsmokingwithintheconfinesofaconstructionvillageenvironment3:
+  - text: Many areas have implemented no-smoking policies which prohibit smoking inside or within a certain distance of the village boundaries. It is important to be aware of these regulations and follow them accordingly.
+
+
+  utter_Arevehiclesallowedinsideofaconstructionvillage,andifso,whataresomeoftheregulationssurroundingtheirusetherein1:
+  - text: Vehicles are allowed in construction villages, however they must adhere to the regulations set forth by the local government. These regulations typically include speed limits, parking restrictions and other safety measures.
+  utter_Arevehiclesallowedinsideofaconstructionvillage,andifso,whataresomeoftheregulationssurroundingtheirusetherein2:
+  - text: All vehicles entering a construction village must be registered with the local government and must follow any additional rules or regulations as outlined by the local authorities.
+  utter_Arevehiclesallowedinsideofaconstructionvillage,andifso,whataresomeoftheregulationssurroundingtheirusetherein3:
+  - text: It is important to remember that safety should always be a priority when driving in a construction village, as there may be heavy machinery and other hazards present that could cause serious injury or death if not properly respected.
+
+
+  utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment1:
+  - text: Hazardous materials should always be handled with extreme caution and disposed of according to the guidelines set by the Environmental Protection Program (EPP).
+  utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment2:
+  - text: It is important to follow all local, state, and federal regulations when it comes to hazardous materials handling and disposal in a construction village environment.
+  utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment3:
+  - text: All hazardous waste should be stored, accumulated, and disposed of properly in order to protect human health and the environment.
+  
+  
+  utter_Whatkindoftrainingdoworkersreceivebeforetheyareallowedtoworkinaconstructionvillageenvironment1:
+  - text: All workers must receive comprehensive safety training before they are allowed to work in a construction village environment. This includes instruction on proper use of tools, equipment and machinery as well as safety protocols for working around hazardous materials.
+  utter_Whatkindoftrainingdoworkersreceivebeforetheyareallowedtoworkinaconstructionvillageenvironment2:
+  - text: Construction village safety is taken very seriously, so all workers must be properly trained in order to ensure the safety of everyone involved. This includes learning about the risks associated with the job and how to avoid them, as well as understanding how to use tools and equipment safely.
+  utter_Whatkindoftrainingdoworkersreceivebeforetheyareallowedtoworkinaconstructionvillageenvironment3:
+  - text: In addition to receiving training on safety protocols, workers must also be familiar with the local laws and regulations related to construction villages before they are allowed to start working in one. This ensures that everyone is aware of their rights and responsibilities when it comes to protecting themselves and others from potential hazards.
+
+
+  utter_Howoftenshouldfireextinguishersandotheremergencyequipmentbeinspectedandmaintainedwithinaconstructionvillageenvironment1:
+  - text: Fire extinguishers and other emergency equipment should be inspected and maintained at least once a year in a construction village environment to ensure that they are in proper working order.
+  utter_Howoftenshouldfireextinguishersandotheremergencyequipmentbeinspectedandmaintainedwithinaconstructionvillageenvironment2:
+  - text: It is important to carry out regular inspections and maintenance of fire extinguishers and other emergency equipment in a construction village environment to ensure the safety of everyone on site.
+  utter_Howoftenshouldfireextinguishersandotheremergencyequipmentbeinspectedandmaintainedwithinaconstructionvillageenvironment3:
+  - text: All fire extinguishers and other emergency equipment should be checked regularly for signs of wear or damage, as well as serviced according to manufacturer's instructions, in order to maintain their effectiveness in an emergency situation within a construction village environment.
+
+
+  utter_Arethereanyspecialrulesorregulationsregardingwastemanagementthatmustbefollowedwhenworkinginaconstructionvillageenvironment1:
+  - text: Yes, when working in a construction village environment there are special rules and regulations that must be followed regarding waste management. These rules and regulations include properly disposing of all construction materials, utilizing the services of a waste management company, and following local laws and ordinances related to waste disposal.
+  utter_Arethereanyspecialrulesorregulationsregardingwastemanagementthatmustbefollowedwhenworkinginaconstructionvillageenvironment2:
+  - text: It is important to ensure that all construction materials are disposed of properly when working in a construction village environment. This includes utilizing the services of a reputable waste management company as well as abiding by any local laws or ordinances related to waste disposal.
+  utter_Arethereanyspecialrulesorregulationsregardingwastemanagementthatmustbefollowedwhenworkinginaconstructionvillageenvironment3:
+  - text: Waste management is an important part of any construction project, especially when working in a village environment. All workers must follow the rules and regulations set forth by their local government regarding proper disposal of all construction materials as well as utilize the services of a reliable waste management company for collection and disposal purposes.
+
+
+  utter_HowdoIaccesscleaningservicesinaconstructionvillage(SaudiArabia)1:
+  - text: JAN-PRO Cleaning & Disinfecting offers cleaning service that are designed to meet the specific sanitation and hygiene needs of construction sites.
+  utter_HowdoIaccesscleaningservicesinaconstructionvillage(SaudiArabia)2:
+  - text: Five Moons provides deep cleaning services for towers, including cleaning building facades and window glass, which is essential for construction sites.
+  utter_HowdoIaccesscleaningservicesinaconstructionvillage(SaudiArabia)3:
+  - text: Tamam Company specializes in high quality building maintenance and cleaning services that are perfect for construction villages in Saudi Arabia.
+
+
+
+  utter_Istherealaundryserviceavailableintheconstructionvillage1:
+  - text: Yes, there are laundry services available in the construction village. For example, Safleen and Bubbles Laundry offer franchise opportunities in the area.
+  utter_Istherealaundryserviceavailableintheconstructionvillage2:
+  - text: If you're looking for a reliable laundry service, CleanLine is one of the top choices. They guarantee quality and provide pick-up and delivery services as well. 
+  utter_Istherealaundryserviceavailableintheconstructionvillage3:
+  - text: Al Jabr Laundry is also a great option for those living in the construction village. It has five plants that serve more than 500 receiving shops across the Middle East.
+
+  utter_HowcanIgetaroundtheconstructionvillagesafely1:
+  - text: Make sure to familiarize yourself with the layout of the construction village before you start to explore. Knowing your way around can help you stay safe while navigating through the village.
+  utter_HowcanIgetaroundtheconstructionvillagesafely2:
+  - text: Take appropriate safety precautions when travelling in the construction village, such as wearing reflective clothing and avoiding walking alone at night.
+  utter_HowcanIgetaroundtheconstructionvillagesafely3:
+  - text: Follow any instructions or warnings posted in the construction village, such as closed areas and road hazards. This can help ensure your safety while getting around in the area.
+  
+  utter_Arethereanyentertainmentoractivitiesavailableinthevillage1:
+  - text: You can check out the latest updates about the village on the Construction Village website.
+
+  utter_Arethereanyentertainmentoractivitiesavailableinthevillage2:
+  - text: You can also watch videos about the Construction Village on YouTube for monthly updates.
+
+  utter_Arethereanyentertainmentoractivitiesavailableinthevillage3:
+  - text: Additionally, you can find news articles and tenders related to the project on Construction Week Online and CNN Style.
+
+  utter_WherecanIfindnewsandupdatesabouttheconstructionvillage1:
+  - text: You can watch the latest updates of Construction Village on YouTube for each month.
+  utter_WherecanIfindnewsandupdatesabouttheconstructionvillage2:
+  - text: You can check out the village news website to get the latest updates on other constructions.
+  utter_WherecanIfindnewsandupdatesabouttheconstructionvillage3:
+  - text: NPR has a great article about the Smart City, a new city that is enclosed and uses renewable energy.
+
+  utter_Howoftenarequarterscleanedbystaffmembersattheconstructionvillage1:
+  - text: The quarters at the construction village are thoroughly cleaned multiple times a week to ensure that they remain safe and sanitary for our residents.
+  
+  utter_Arevisitorsallowedtoenterintoandstayovernightintheconstructionvillage1:
+  - text: Unfortunately, visitors are not allowed to enter into or stay overnight in the construction village for safety reasons.
+  utter_Arevisitorsallowedtoenterintoandstayovernightintheconstructionvillage2:
+  - text: For safety reasons, we cannot allow visitors to enter into or stay overnight in the construction village.
+  utter_Arevisitorsallowedtoenterintoandstayovernightintheconstructionvillage3:
+  - text: We apologize, but due to safety concerns, visitors are not permitted to enter into or stay overnight in the construction village.
+
+  
+  
+  utter_Arethereanyspecificrulesorregulationsthatmustbefollowedwhilelivinginaconstructionvillage1:
+  - text: Yes, there are certain rules and regulations that must be followed while living in the construction village to ensure safety and security for all residents.
+  utter_Arethereanyspecificrulesorregulationsthatmustbefollowedwhilelivinginaconstructionvillage2:
+  - text: Residents of the construction village must follow the outlined regulations so that everyone can enjoy a safe and secure environment.
+  utter_Arethereanyspecificrulesorregulationsthatmustbefollowedwhilelivinginaconstructionvillage3:
+  - text: Yes, there are specific rules and regulations that must be followed while living in a construction village. These rules may include building codes, demolition permits, drainage regulations, electrical panel repairs, fence requirements, generator requirements and irrigation restrictions.
+  utter_Arethereanyspecificrulesorregulationsthatmustbefollowedwhilelivinginaconstructionvillage4:
+  - text: It is important to make sure that any proposed build is in compliance with local ordinances and laws before beginning construction on your house. This includes being aware of the Building Guidelines for the area you are living in as well as any other applicable laws or regulations.
+
+
+
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+
+
+
+
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

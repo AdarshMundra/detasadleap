@@ -1,0 +1,503 @@
+version: "3.1"
+
+nlu:
+
+- intent: WhatisaWeb3Training&ComplianceSystem 
+  examples: |
+    - What is a Web3 Training & Compliance System
+    - Web3 Training & Compliance System
+    - Can you please explain Web3 Training & Compliance System
+    - can you explain me that what is Web3 Training & Compliance System
+    - Explain Web3 Training & Compliance System
+    - what do you understand by Web3 Training & Compliance System
+    - do you know about the Web3 Training & Compliance System
+    - Do you understand that What is a Web3 Training & Compliance System is?
+    - Define Web3 Training & Compliance System
+
+- intent: Howdoesitdifferfromtraditionalsolutions
+  examples: |
+    - How does it differ from traditional solutions?
+    - differ from traditional solutions?
+    - Can you please explain how it differs from traditional solutions?
+    - Can you explain to me how it differs from traditional solutions?
+    - Explain how it differs from traditional solutions?
+    - Do you know how it differs from traditional solutions?
+    - Do you understand how it differs from traditional solutions??
+    - Define How does it differ from traditional solutions?
+
+- intent: Howwillithelptheconstructionvillageresidents 
+  examples: |
+    - How will it help the construction village residents?
+    - help the construction village residents
+    - Can you please explain How it will help the construction village residents?
+    - Can you explain to me that How it will help the construction village residents?
+    - Explain How it will help the construction village residents?
+    - Do you know about the How it will help the construction village residents?
+    - Do you understand that How it will help the construction village residents?
+    - Define How will it help the construction village residents?
+
+- intent: Whatsafetyapparelisrequiredforworkersintheconstructionvillage
+  examples: |
+    - What safety apparel is required for workers in the construction village?
+    - apparel required for workers in the construction village?
+    - Can you please explain What safety apparel is required for workers in the construction village?
+    - Can you explain to me What safety apparel is required for workers in the construction village?
+    - Explain What safety apparel is required for workers in the construction village?
+    - Do you know about that What safety apparel is required for workers in the construction village?
+    - Do you understand that What safety apparel is required for workers in the construction village?
+    - Define What safety apparel is required for workers in the construction village?
+    - Why is safety apparel required for workers in the construction village?
+
+
+- intent: Whatsafetyproceduresmustbefollowedintheconstructionvillage  
+  examples: |
+    - What safety procedures must be followed in the construction village
+    - Should safety procedures be followed in the construction village?
+    - Can you please explain What safety procedures must be followed in the construction village?
+    - Can you explain to me that What safety procedures must be followed in the construction village?
+    - Explain What safety procedures must be followed in the construction village?
+    - What do you understand about safety procedures that must be followed in the construction village?
+    - Do you know about the safety procedures that must be followed in the construction village?
+    - Do you understand that What safety procedures must be followed in the construction village?
+    - Define the safety procedures must be followed in the construction village?
+    - Why are safety procedures followed in the construction village?
+
+
+
+- intent: Arethereanyrestrictionsonaccesstotheconstructionvillage
+  examples: |
+    - Are there any restrictions on access to the construction village?
+    - restrictions on access to the construction village?
+    - Can you please explain restrictions on access to the construction village?
+    - Can you explain to me that there are any restrictions on access to the construction village?
+    - Explain restrictions on access to the construction village?
+    - What do you understand about restrictions on access to the construction village?
+    - Do you know about the restrictions on access to the construction village?
+    - Do you understand that there are restrictions on access to the construction village?
+    - Define the restrictions on access to the construction village?
+    - Why Are there any restrictions on access to the construction village?
+
+
+
+- intent: Whatemergencyproceduresshouldbefollowedincaseofaconstructionincident  
+  examples: |
+    - What emergency procedures should be followed in case of a construction incident?
+    - Emergency procedures should be followed in case of a construction incident.
+    - Can you please explain emergency procedures that  should be followed in case of a construction incident.
+    - Can you explain to me what emergency procedures should be followed in case of a construction incident?
+    - Explain the emergency procedures that should be followed in case of a construction incident?
+    - What do you understand about emergency procedures in case of a construction incident?
+    - Do you know about the emergency procedures that should be followed in case of a construction incident?
+    - Do you understand what emergency procedures should be followed in case of a construction incident?
+    - Define emergency procedures should be followed in case of a construction incident.
+    - Why should emergency procedures be followed in case of a construction incident?
+
+
+- intent: HowcanIreportincidentsthatoccurintheconstructionvillage  
+  examples: |
+    - How can I report incidents that occur in the construction village?
+    - Where can I report incidents that occur in the construction village?
+    - Can you please explain how to  report incidents that occur in the construction village.
+    - Can you explain to me how  I can report incidents that occur in the construction village?
+    - Explain how to report incidents occurring by construction in the village.
+    - What do you understand from the incident report on the construction village?
+    - Why do we need to report incidents that occur in construction villages and how to do that?
+    - Do you understand how to report incidents that occur in the construction village?
+
+
+
+- intent: Isthereasecurityteampresentintheconstructionvillage  
+  examples: |
+    - Is there a security team present in the construction village?
+    - Security team present in the construction village what it means .
+    - Why is a security team present in the construction village?
+    - Can you please explain why there is a security team present in the construction village?
+    - Can you explain to me that there is a security team present in the construction village?
+    - Do we need  a security team present in the construction village?
+    - What do you understand about the security team present in the construction village?
+    - Do you know about the security team present in the construction village?
+    - Why is the security team present in the construction village?
+
+
+- intent: Whoisresponsibleforenforcingsafetyandsecurityregulationsintheconstructionvillage
+  examples: |
+    - Who is responsible for enforcing safety and security regulations in the construction village.
+    - What is responsible for enforcing safety and security regulations in the construction village?
+    - Can you please explain the responsible for enforcing safety and security regulations in the construction village
+    - Can you explain me that Who is responsible for enforcing safety and security regulations in the construction village
+    - Explain the responsibility for enforcing safety and security regulations in the construction village.
+    - what do you understand by safety and security regulations in the construction village and who are responsible for that 
+    - Do you know about the enforcing safety and security regulations in the construction village?
+    - Do you understand the term enforcing safety and security regulations in the construction village
+    - Define enforcing safety and security regulations in the construction village
+    - Why safety and security regulations in construction are needed.
+    - In a construction village who is responsible for enforcing the safety and security regulations.
+
+
+
+- intent: Whataresomecommonsafetyhazardspresentinaconstructionvillageenvironment  
+  examples: |
+    - What are some common safety hazards present in a construction village environment?
+    - Safety Hazards in construction village environment.
+    - Safety hazards present in construction villages give examples.
+    - Can you please tell me about some common safety hazads present in a construction village.
+    - Can you explain me that what is Web3 Training & Compliance System
+    - Explain Safety hazards in a construction villages 
+    - what do you understand by safety harzards.
+    - Do you know about the safety harzards present in construction villages.
+    - Do you understand by safety harzards 
+    - Define some common safety hazards present in a construction village environment?
+    - Why safety hazards is required in construction village ?
+
+
+- intent: HowcanIprotectmyselffrompotentialhazardswhileworkingattheconstructionsite
+  examples: |
+    - How can I protect myself from potential hazards while working at the construction site?
+    - Can I protect myself from potential hazards while working at the construction site.
+    - Can you please explain how can I protect myself from potential hazards while working at the construction site?
+    - can you explain me that how to protect myself from potential harzards on construction site .
+    - Explain potential hazards while working at the construction site how to protect ourself from that .
+    - what do you understand by potential hazards 
+    - Do you understand how to protect ourself from potential hazards while working at the construction site?
+    - Define potential hazards and how to protect ourself 
+
+
+- intent:  Arethereanyspecificrulesregardingnoiselevelsthatmustbeadheredtowithintheconstructionvillageboundaries
+  examples: |
+    - Are there any specific rules regarding noise levels that must be adhered to within the construction village boundaries?
+    - specific rules regarding noise levels that must be adhered to within the construction village boundaries.
+    - Can you please explain the specific rules regarding noise levels that must be adhered to within the construction village boundaries?
+    - Can you explain me Are there any specific rules regarding noise levels that must be adhered to within the construction village boundaries?
+    - Explain specific rules regarding noise levels that must be adhered to within the construction village boundaries?
+    - what do you understand by specific rules regarding noise levels  within the construction village boundaries.
+    - do you know about the any specific rules regarding noise levels that must be adhered to within the construction village boundaries?
+    - Do you understand that any specific rules regarding noise levels that must be adhered to within the construction village boundaries?
+    - Define  specific rules regarding noise levels that must be adhered to within the construction village boundaries.
+    - why Are there any specific rules regarding noise levels that must be adhered to within the construction village boundaries?
+
+
+- intent: Whatstepsshouldbetakenifanaccidentoccursataworksitewithintheconstructionvillageboundaries
+  examples: |
+    - What steps should be taken if an accident occurs at a work site within the construction village boundaries?
+    - Can you please explain steps that should be taken if an accident occurs at a work site within the construction village boundaries?
+    - can you explain me about the step taken to if accident happens on construction site .
+    - Explain What steps should be taken if an accident occurs at a work site within the construction village boundaries?
+    - Which steps should be taken if an accident occurs at a work site within the construction village boundaries?
+    - do you know about the steps that should be taken if an accident occurs at a work site within the construction village boundaries?
+    - Do you understand the steps should be taken if an accident occurs at a work site within the construction village boundaries?
+    - Define steps should be taken if an accident occurs at a work site within the construction village boundaries?"
+
+- intent: AreAI-PoweredinformationAvatarsreliable  
+  examples: |
+    - Are AI- Powered information Avatars reliable?
+    - AI- Powered information Avatars reliable
+    - Can you please explain Are AI- Powered information Avatars reliable?
+    - can you explain me that Are AI- Powered information Avatars reliable?
+    - Explain AI- Powered information Avatars are reliable?
+    - what do you understand by AI- Powered information Avatars reliableness?
+    - do you know about the reliableness of AI- Powered information Avatars?
+    - Do you understand that AI- Powered information Avatars are reliable?
+    - Define reliableness of AI- Powered information Avatars?
+    - Why AI- Powered information Avatars are reliable?
+
+
+
+- intent: WhatisaConstructionVillageAI-PoweredInformationAvatar
+  examples: |
+    - What is a Construction Village AI-Powered Information Avatar?
+    - Construction Village AI-Powered Information Avatar?
+    - Can you please explain Construction Village AI-Powered Information Avatar?
+    - can you explain me that What is a Construction Village AI-Powered Information Avatar?
+    - Explain Construction Village AI-Powered Information Avatar?
+    - what do you understand by Construction Village AI-Powered Information Avatar?
+    - do you know about the Construction Village AI-Powered Information Avatar?
+    - Do you understand that What is a Construction Village AI-Powered Information Avatar?
+    - Define Construction Village AI-Powered Information Avatar?
+
+
+- intent: HowwillAI-PoweredInformationAvatarhelptheresidentsofaconstructionvillage
+  examples: |
+    - How will AI-Powered Information Avatar help the residents of a construction village?
+    - Is AI-Powered Information Avatar help the residents of a construction village?
+    - Can you please explain How will AI-Powered Information Avatar help the residents of a construction village?
+    - can you explain me that How will AI-Powered Information Avatar help the residents of a construction village?
+    - Explain How will AI-Powered Information Avatar help the residents of a construction village?
+    - what do you understand by  AI-Powered Information Avatar help the residents of a construction village?
+    - do you know about the AI-Powered Information Avatar help the residents of a construction village?
+    - Do you understand that AI-Powered Information Avatar help the residents of a construction village?
+    - Define AI-Powered Information Avatar help the residents of a construction village?
+
+
+
+- intent: Arethereanyrulesorregulationsregardingsmokingwithintheconfinesofaconstructionvillageenvironment
+  examples: |
+    - Are there any rules or regulations regarding smoking within the confines of a construction village environment?
+    - rules or regulations regarding smoking within the confines of a construction village environment?
+    - Can you please explain the importance of rules or regulations regarding smoking within the confines of a construction village environment?
+    - can you explain me the rules or regulations regarding smoking within the confines of a construction village environment?
+    - Explain is there any rules or regulations regarding smoking within the confines of a construction village environment?
+    - what do you understand by the rules or regulations regarding smoking within the confines of a construction village environment?
+    - do you know about the rules or regulations regarding smoking within the confines of a construction village environment?
+    - Do you understand that how much importance of rules or regulations regarding smoking within the confines of a construction village environment?
+    - Define rules or regulations regarding smoking within the confines of a construction village environment?
+    - Why rules or regulations regarding smoking within the confines of a construction village environment is important?
+
+- intent: Arevehiclesallowedinsideofaconstructionvillage,andifso,whataresomeoftheregulationssurroundingtheirusetherein
+  examples: |
+    - Are vehicles allowed inside of a construction village, and if so, what are some of the regulations surrounding their use therein?
+    - vehicles allowed inside of a construction village? what are some of the regulations surrounding their use therein?
+    - Can you please explain vehicles allowed inside of a construction village, and  what are some of the regulations surrounding their use therein?
+    - can you explain me that Are Are vehicles allowed inside of a construction village, and if so, what are some of the regulations surrounding their use therein?
+    - Explain Are vehicles allowed inside of a construction village, and if so, what are some of the regulations surrounding their use therein?
+    - what do you understand by the vehicles allowed inside of a construction village
+    - do you know about that vehicles allowed inside of a construction village or not, and if so, what are some of the regulations surrounding their use therein?
+    - Do you understand that about the regulations and vehicles allowed inside of a construction village or not?
+    - Define the important things and aspects of vehicles allowed inside of a construction village.
+    - Why vehicles allowed inside of a construction village?, and if so, what are some of the regulations surrounding their use therein?
+
+
+
+
+- intent: Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment
+  examples: |
+    -How should hazardous materials be handled and disposed of within a construction village environment?
+    -What are the guidelines for handling and disposing of hazardous materials in a construction village environment?
+    - Are there any specific laws or regulations for the disposal of hazardous materials in construction villages ?
+    - How can workers ensure the safe handling and disposal of hazardous materials in a construction village?
+    - What is the recommended method for disposing of hazardous materials in a construction village environment?
+    - How should hazardous waste be stored and transported within a construction village?
+    - Are there any specific training programs for workers in construction villages for handling and disposing of hazardous materials?
+    - How does the process of handling and disposing of hazardous materials differ in a construction village compared to other environments?
+    - Are there any resources available to learn about proper hazardous materials handling and disposal practices in a construction village?
+
+
+
+- intent: Whatkindoftrainingdoworkersreceivebeforetheyareallowedtoworkinaconstructionvillageenvironment
+  examples: |
+    - What kind of training do workers receive before they are allowed to work in a construction village environment?
+    - Are there any specific training requirements for workers in a construction village environment?
+    - What kind of safety training do workers receive before starting work in a construction village?
+    - How can workers prepare themselves for the unique hazards of a construction village environment?
+    - Are there any certifications required for workers in construction villages in Saudi Arabia?
+    - Are workers in construction villages trained in emergency response procedures?
+    - How often do workers in construction villages receive training?
+    - What topics are covered in the training for workers in construction villages?
+    - Are there any regulations in Saudi Arabia that govern the training of workers in construction villages?
+    - What kind of training is provided to workers in construction villages to ensure their safety?
+    - Are workers in construction villages trained on the proper use and maintenance of emergency equipment?
+
+- intent: Howoftenshouldfireextinguishersandotheremergencyequipmentbeinspectedandmaintainedwithinaconstructionvillageenvironment
+  examples: |
+    - How often should fire extinguishers and other emergency equipment be inspected and maintained within a construction village environment?
+    - What are the recommended inspection and maintenance schedules for fire extinguishers  in a construction village?
+    - How frequently should fire extinguishers be checked in a construction village environment?
+    - Are there any specific regulations for the maintenance of emergency equipment in construction villages in Saudi Arabia?
+    - What steps should be taken to ensure fire extinguishers and other emergency equipment are in proper working condition in a construction village?
+    - How can we ensure fire extinguishers and other emergency equipment are up to date in a construction village environment?
+    - What kind of maintenance is required for emergency equipment in construction villages?
+    - How do we check if fire extinguishers and other emergency equipment are still functional in a construction village environment?
+    - Define the rules and regulations regarding waste management that need to be followed in construction villages.
+
+
+- intent: Arethereanyspecialrulesorregulationsregardingwastemanagementthatmustbefollowedwhenworkinginaconstructionvillageenvironment
+  examples: |
+    - Are there any special rules or regulations regarding waste management that must be followed when working in a construction village environment ?
+    - Rules or regulations regarding waste management that must be followed when working in a construction village environment .
+    - What are the regulations for handling  waste in a construction village environment?
+    - Are there any laws that govern waste management in construction villages in Saudi Arabia?
+    - What steps must be taken to ensure proper waste management in a construction village environment?
+    - How does the waste management process differ in a construction village compared to other environments?
+    - Do you know about the rules or regulation need for waste managements 
+    - Define the rules and regulation regarding waste managements .
+
+
+
+- intent: HowdoIaccesscleaningservicesinaconstructionvillage(SaudiArabia)
+  examples: |
+    - How do I access cleaning services in a construction village (Saudi Arabia)?
+    -  Cleaning services in a construction village (Saudi Arabia).
+    - Can you please explain How to access cleaning services in a construction village (Saudi Arabia)?
+    - What are my options for accessing cleaning services in a construction village in Saudi Arabia?
+    - How can I find cleaning services for me in construction village in Saudi Arabia?
+    - Are there any local cleaning companies that serve construction villages in Saudi Arabia?
+    - Can the management of a construction village in Saudi Arabia help me find cleaning services?
+    - Are there any cleaning services specifically for construction villages in Saudi Arabia?
+    - How do I go about finding a cleaning company for my construction village in Saudi Arabia?"
+
+
+
+- intent: Istherealaundryserviceavailableintheconstructionvillage
+  examples: |
+    - Is there a laundry service available in the construction village?
+    - Are there laundry facilities available in the construction village.
+    - Can you provide information on the laundry services offered in the construction village?
+    - Are there any options for washing and drying clothes in the construction village?
+    - Define the laundry services available in construction villages
+    - How can I access laundry services in the construction village?
+    - Are there any restrictions on the use of laundry facilities in the construction village?
+    - Are there any additional charges for using laundry services in the construction village?
+    - Can you tell me about the availability and cost of laundry services in the construction village?
+
+
+
+
+
+
+- intent: HowcanIgetaroundtheconstructionvillagesafely 
+  examples: |
+    - How can I get around the construction village safely?
+    - Can you provide information on the safe transportation options in the construction village?
+    - Are there designated walkways or bike lanes in the construction village?
+    - How can I navigate the construction village safely?
+    - Are there any safety precautions to take when getting around the construction village?
+    - What are the best ways to move around the construction village safely?
+    - Can you tell me about the traffic rules and regulations in the construction village?
+    - Are there any safety concerns I should be aware of when getting around the construction village?
+    - How should one stay safe while moving around the construction village?
+    - Are there any routes for safely getting around the construction village?
+    - What is the process for safely getting around the construction village during construction work?
+    - Define how can i roam around the construction village safely .
+
+
+
+- intent: Arethereanyentertainmentoractivitiesavailableinthevillage
+  examples: |
+    - Are there any entertainment or activities available in the village?
+    -  Entertainment or activities available in village
+    - what are the entertainment or activities available in the village?
+    - What kind of recreational activities are available in the village?
+    - Are there any amenities for entertainment in the village?
+    - Can you provide information on the available leisure activities in the village?
+    - Are there any options for entertainment within the village?
+    - Are there any places to relax or have fun in the village?
+    - What are the options for entertainment and activities in the village?
+
+
+- intent:  WherecanIfindnewsandupdatesabouttheconstructionvillage
+  examples: |
+    - Where can I find news and updates about the construction village?
+    - Where can I stay informed about the latest developments at the construction village?
+    - Can you tell me where to find news and updates about the construction village?
+    - Where can I find information on the progress of the construction village?
+    - How can I stay informed about the construction village?
+    - Is there a site or news source that covers updates on the construction village?
+    - Are there any official channels for news and updates about the construction village?
+    - Can you provide information on where to find updates on the construction village projects?
+    - Tell me about where to find the updates and news about the construction villages .
+
+
+- intent: Howoftenarequarterscleanedbystaffmembersattheconstructionvillage
+  examples: |
+    - How often are quarters cleaned by staff members at the construction village?
+    - What is the cleaning schedule for the quarters at the construction village
+    - What is the frequency of cleaning for the quarters at the construction village?
+    - How often are the staff responsible for cleaning the quarters at the construction village?
+    - Can you provide information on the cleaning schedule for the quarters at the construction village?
+    - Is there a set schedule for cleaning the quarters at the construction village?
+    - What is the protocol for cleaning the quarters at the construction village?
+
+
+- intent:  
+  examples: |
+    - Are visitors allowed to enter into and stay overnight in the construction village ?
+    - Do visitors allowed to enter into and stay overnight in the construction village .
+    - Tell me about is  visitors are allowed to enter into and stay overnight in the construction village ?
+    - can you explain me are visitors allowed to enter into and stay overnight in the construction village ?
+    - Is there any way for visitor to enter into and stay overnight in construction villages 
+    - Define the term ""Are visitors allowed to enter into and stay overnight in the construction village ?
+
+
+- intent:  
+  examples: |
+    - Are there any specific rules or regulations that must be followed while living in a construction village?
+    - what Are the specific rules or regulations that must be followed while living in a construction village?
+    - rules or regulations that must be followed while living in a construction village
+    - Can you please explain  specific rules or regulations that must be followed while living in a construction village
+    - can you explain me  rules or regulations are need for living in a construction village
+    - Explain rules or regulations that need to be followed for living in  a construction village
+    - what do you understand by  specific rules or regulations followed while living in a construction village
+    - do you know about  specific rules or regulations that must be followed while living in a construction village
+    - Do you understand the term are there any specific rules or regulations that must be followed while living in a construction village
+    - Define the rules and regulations that needs to followed for living in construction villages.
+    - why do we needs rules and regulations to be followed for living in construction villages 
+
+# - intent:  
+#   examples: |
+
+
+# - intent:  
+#   examples: |
+
+
+# - intent:  
+#   examples: |
+
+
+
+# - intent:  
+#   examples: |
+
+
+# - intent:  
+#   examples: |
+
+
+# - intent:  
+#   examples: |
+
+
+# - intent:  
+#   examples: |
+
+
+# - intent:  
+#   examples: |
+
+
+
+# - intent:  
+#   examples: |
+
+
+# - intent:  
+#   examples: |
+
+
+# - intent:  
+#   examples: |
+
+
+# - intent:  
+#   examples: |
+
+
+# - intent:  
+#   examples: |
+
+
+
+# - intent:  
+#   examples: |
+
+
+# - intent:  
+#   examples: |
+
+
+# - intent:  
+#   examples: |
+
+
+# - intent:  
+#   examples: |
+
+
+# - intent:  
+#   examples: |
+
+
+
+
+
+
+

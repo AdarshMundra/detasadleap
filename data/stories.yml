@@ -1,0 +1,269 @@
+version: "3.1"
+
+stories:
+
+- story: WhatisaWeb3Training&ComplianceSystem
+  steps:
+  - intent: WhatisaWeb3Training&ComplianceSystem
+  - action: utter_WhatisaWeb3Training&ComplianceSystem1
+  - action: utter_WhatisaWeb3Training&ComplianceSystem2
+  - action: utter_WhatisaWeb3Training&ComplianceSystem3
+
+- story: Howdoesitdifferfromtraditionalsolutions
+  steps:
+  - intent: Howdoesitdifferfromtraditionalsolutions
+  - action: utter_Howdoesitdifferfromtraditionalsolutions1
+  - action: utter_Howdoesitdifferfromtraditionalsolutions2
+  - action: utter_Howdoesitdifferfromtraditionalsolutions3
+
+- story: Howwillithelptheconstructionvillageresidents
+  steps:
+  - intent: Howwillithelptheconstructionvillageresidents
+  - action: utter_Howwillithelptheconstructionvillageresidents1
+  - action: utter_Howwillithelptheconstructionvillageresidents2
+  - action: utter_Howwillithelptheconstructionvillageresidents3
+  - action: utter_Howwillithelptheconstructionvillageresidents4
+  - action: utter_Howwillithelptheconstructionvillageresidents5
+  - action: utter_Howwillithelptheconstructionvillageresidents6
+
+- story: Whatsafetyapparelisrequiredforworkersintheconstructionvillage
+  steps:
+  - intent: Whatsafetyapparelisrequiredforworkersintheconstructionvillage
+  - action: utter_Whatsafetyapparelisrequiredforworkersintheconstructionvillage1
+  - action: utter_Whatsafetyapparelisrequiredforworkersintheconstructionvillage2
+  - action: utter_Whatsafetyapparelisrequiredforworkersintheconstructionvillage3
+
+
+
+- story: Whatsafetyproceduresmustbefollowedintheconstructionvillage
+  steps:
+  - intent: Whatsafetyproceduresmustbefollowedintheconstructionvillage
+  - action: utter_Whatsafetyproceduresmustbefollowedintheconstructionvillage1
+  - action: utter_Whatsafetyproceduresmustbefollowedintheconstructionvillage2
+  - action: utter_Whatsafetyproceduresmustbefollowedintheconstructionvillage3
+
+- story: Arethereanyrestrictionsonaccesstotheconstructionvillage
+  steps:
+  - intent: Arethereanyrestrictionsonaccesstotheconstructionvillage
+  - action: utter_Arethereanyrestrictionsonaccesstotheconstructionvillage1
+  - action: utter_Arethereanyrestrictionsonaccesstotheconstructionvillage2
+  - action: utter_Arethereanyrestrictionsonaccesstotheconstructionvillage3
+
+- story: Whatemergencyproceduresshouldbefollowedincaseofaconstructionincident
+  steps:
+  - intent: Whatemergencyproceduresshouldbefollowedincaseofaconstructionincident
+  - action: utter_Whatemergencyproceduresshouldbefollowedincaseofaconstructionincident1
+  - action: utter_Whatemergencyproceduresshouldbefollowedincaseofaconstructionincident2
+  - action: utter_Whatemergencyproceduresshouldbefollowedincaseofaconstructionincident3
+
+- story: HowcanIreportincidentsthatoccurintheconstructionvillage
+  steps:
+  - intent: HowcanIreportincidentsthatoccurintheconstructionvillage
+  - action: utter_HowcanIreportincidentsthatoccurintheconstructionvillage1
+  - action: utter_HowcanIreportincidentsthatoccurintheconstructionvillage2
+
+
+- story: Isthereasecurityteampresentintheconstructionvillage
+  steps:
+  - intent: Isthereasecurityteampresentintheconstructionvillage
+  - action: utter_Isthereasecurityteampresentintheconstructionvillage1
+  - action: utter_Isthereasecurityteampresentintheconstructionvillage2
+  - action: utter_Isthereasecurityteampresentintheconstructionvillage3
+
+
+- story: Whoisresponsibleforenforcingsafetyandsecurityregulationsintheconstructionvillage
+  steps:
+  - intent: Whoisresponsibleforenforcingsafetyandsecurityregulationsintheconstructionvillage
+  - action: utter_Whoisresponsibleforenforcingsafetyandsecurityregulationsintheconstructionvillage1
+  - action: utter_Whoisresponsibleforenforcingsafetyandsecurityregulationsintheconstructionvillage2
+  - action: utter_Whoisresponsibleforenforcingsafetyandsecurityregulationsintheconstructionvillage3
+
+
+- story: Whataresomecommonsafetyhazardspresentinaconstructionvillageenvironment
+  steps:
+  - intent: Whataresomecommonsafetyhazardspresentinaconstructionvillageenvironment
+  - action: utter_Whataresomecommonsafetyhazardspresentinaconstructionvillageenvironment1
+  - action: utter_Whataresomecommonsafetyhazardspresentinaconstructionvillageenvironment2
+  - action: utter_Whataresomecommonsafetyhazardspresentinaconstructionvillageenvironment3
+
+- story: HowcanIprotectmyselffrompotentialhazardswhileworkingattheconstructionsite
+  steps:
+  - intent: HowcanIprotectmyselffrompotentialhazardswhileworkingattheconstructionsite 
+  - action: utter_HowcanIprotectmyselffrompotentialhazardswhileworkingattheconstructionsite1
+  - action: utter_HowcanIprotectmyselffrompotentialhazardswhileworkingattheconstructionsite2
+  - action: utter_HowcanIprotectmyselffrompotentialhazardswhileworkingattheconstructionsite3
+
+- story: Arethereanyspecificrulesregardingnoiselevelsthatmustbeadheredtowithintheconstructionvillageboundaries
+  steps:
+  - intent: Arethereanyspecificrulesregardingnoiselevelsthatmustbeadheredtowithintheconstructionvillageboundaries
+  - action: utter_Arethereanyspecificrulesregardingnoiselevelsthatmustbeadheredtowithintheconstructionvillageboundaries1
+  - action: utter_Arethereanyspecificrulesregardingnoiselevelsthatmustbeadheredtowithintheconstructionvillageboundaries2
+  - action: utter_Arethereanyspecificrulesregardingnoiselevelsthatmustbeadheredtowithintheconstructionvillageboundaries3
+
+- story: Whatstepsshouldbetakenifanaccidentoccursataworksitewithintheconstructionvillageboundaries
+  steps:
+  - intent: Whatstepsshouldbetakenifanaccidentoccursataworksitewithintheconstructionvillageboundaries
+  - action: utter_Whatstepsshouldbetakenifanaccidentoccursataworksitewithintheconstructionvillageboundaries1
+  - action: utter_Whatstepsshouldbetakenifanaccidentoccursataworksitewithintheconstructionvillageboundaries2
+  - action: utter_Whatstepsshouldbetakenifanaccidentoccursataworksitewithintheconstructionvillageboundaries3
+
+- story: AreAI-PoweredinformationAvatarsreliable
+  steps:
+  - intent: AreAI-PoweredinformationAvatarsreliable
+  - action: utter_AreAI-PoweredinformationAvatarsreliable1
+  - action: utter_AreAI-PoweredinformationAvatarsreliable2
+  - action: utter_AreAI-PoweredinformationAvatarsreliable3
+
+- story: WhatisaConstructionVillageAI-PoweredInformationAvatar
+  steps:
+  - intent: WhatisaConstructionVillageAI-PoweredInformationAvatar 
+  - action: utter_WhatisaConstructionVillageAI-PoweredInformationAvatar1
+  - action: utter_WhatisaConstructionVillageAI-PoweredInformationAvatar2
+  - action: utter_WhatisaConstructionVillageAI-PoweredInformationAvatar3
+  - action: utter_WhatisaConstructionVillageAI-PoweredInformationAvatar4
+
+- story: HowwillAI-PoweredInformationAvatarhelptheresidentsofaconstructionvillage
+  steps:
+  - intent: HowwillAI-PoweredInformationAvatarhelptheresidentsofaconstructionvillage
+  - action: utter_HowwillAI-PoweredInformationAvatarhelptheresidentsofaconstructionvillage1
+  - action: utter_HowwillAI-PoweredInformationAvatarhelptheresidentsofaconstructionvillage2
+  - action: utter_HowwillAI-PoweredInformationAvatarhelptheresidentsofaconstructionvillage3
+
+
+- story: Arethereanyrulesorregulationsregardingsmokingwithintheconfinesofaconstructionvillageenvironment
+  steps:
+  - intent: Arethereanyrulesorregulationsregardingsmokingwithintheconfinesofaconstructionvillageenvironment 
+  - action: utter_Arethereanyrulesorregulationsregardingsmokingwithintheconfinesofaconstructionvillageenvironment1
+  - action: utter_Arethereanyrulesorregulationsregardingsmokingwithintheconfinesofaconstructionvillageenvironment2
+  - action: utter_Arethereanyrulesorregulationsregardingsmokingwithintheconfinesofaconstructionvillageenvironment3
+
+- story: Arevehiclesallowedinsideofaconstructionvillage,andifso,whataresomeoftheregulationssurroundingtheirusetherein
+  steps:
+  - intent: Arevehiclesallowedinsideofaconstructionvillage,andifso,whataresomeoftheregulationssurroundingtheirusetherein 
+  - action: utter_Arevehiclesallowedinsideofaconstructionvillage,andifso,whataresomeoftheregulationssurroundingtheirusetherein1
+  - action: utter_Arevehiclesallowedinsideofaconstructionvillage,andifso,whataresomeoftheregulationssurroundingtheirusetherein2
+  - action: utter_Arevehiclesallowedinsideofaconstructionvillage,andifso,whataresomeoftheregulationssurroundingtheirusetherein3
+
+- story: Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment
+  steps:
+  - intent: Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment
+  - action: utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment1
+  - action: utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment2
+  - action: utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment3
+
+
+
+- story: Whatkindoftrainingdoworkersreceivebeforetheyareallowedtoworkinaconstructionvillageenvironment
+  steps:
+  - intent: Whatkindoftrainingdoworkersreceivebeforetheyareallowedtoworkinaconstructionvillageenvironment
+  - action: utter_Whatkindoftrainingdoworkersreceivebeforetheyareallowedtoworkinaconstructionvillageenvironment1
+  - action: utter_Whatkindoftrainingdoworkersreceivebeforetheyareallowedtoworkinaconstructionvillageenvironment2
+  - action: utter_Whatkindoftrainingdoworkersreceivebeforetheyareallowedtoworkinaconstructionvillageenvironment3
+
+- story: Howoftenshouldfireextinguishersandotheremergencyequipmentbeinspectedandmaintainedwithinaconstructionvillageenvironment
+  steps:
+  - intent: Howoftenshouldfireextinguishersandotheremergencyequipmentbeinspectedandmaintainedwithinaconstructionvillageenvironment
+  - action: utter_Howoftenshouldfireextinguishersandotheremergencyequipmentbeinspectedandmaintainedwithinaconstructionvillageenvironment1
+  - action: utter_Howoftenshouldfireextinguishersandotheremergencyequipmentbeinspectedandmaintainedwithinaconstructionvillageenvironment2
+  - action: utter_Howoftenshouldfireextinguishersandotheremergencyequipmentbeinspectedandmaintainedwithinaconstructionvillageenvironment3
+
+- story: Arethereanyspecialrulesorregulationsregardingwastemanagementthatmustbefollowedwhenworkinginaconstructionvillageenvironment
+  steps:
+  - intent: Arethereanyspecialrulesorregulationsregardingwastemanagementthatmustbefollowedwhenworkinginaconstructionvillageenvironment
+  - action: utter_Arethereanyspecialrulesorregulationsregardingwastemanagementthatmustbefollowedwhenworkinginaconstructionvillageenvironment1
+  - action: utter_Arethereanyspecialrulesorregulationsregardingwastemanagementthatmustbefollowedwhenworkinginaconstructionvillageenvironment2
+  - action: utter_Arethereanyspecialrulesorregulationsregardingwastemanagementthatmustbefollowedwhenworkinginaconstructionvillageenvironment3
+
+- story: HowdoIaccesscleaningservicesinaconstructionvillage(SaudiArabia)
+  steps:
+  - intent: HowdoIaccesscleaningservicesinaconstructionvillage(SaudiArabia)
+  - action: utter_HowdoIaccesscleaningservicesinaconstructionvillage(SaudiArabia)1
+  - action: utter_HowdoIaccesscleaningservicesinaconstructionvillage(SaudiArabia)2
+  - action: utter_HowdoIaccesscleaningservicesinaconstructionvillage(SaudiArabia)3
+
+- story: Istherealaundryserviceavailableintheconstructionvillage
+  steps:
+  - intent: Istherealaundryserviceavailableintheconstructionvillage
+  - action: utter_Istherealaundryserviceavailableintheconstructionvillage1
+  - action: utter_Istherealaundryserviceavailableintheconstructionvillage2
+  - action: utter_Istherealaundryserviceavailableintheconstructionvillage3
+
+- story: HowcanIgetaroundtheconstructionvillagesafely
+  steps:
+  - intent: HowcanIgetaroundtheconstructionvillagesafely
+  - action: utter_HowcanIgetaroundtheconstructionvillagesafely1
+  - action: utter_HowcanIgetaroundtheconstructionvillagesafely2
+  - action: utter_HowcanIgetaroundtheconstructionvillagesafely3
+
+- story: Arethereanyentertainmentoractivitiesavailableinthevillage
+  steps:
+  - intent: Arethereanyentertainmentoractivitiesavailableinthevillage
+  - action: utter_Arethereanyentertainmentoractivitiesavailableinthevillage1
+  - action: utter_Arethereanyentertainmentoractivitiesavailableinthevillage2
+  - action: utter_Arethereanyentertainmentoractivitiesavailableinthevillage3
+
+- story: WherecanIfindnewsandupdatesabouttheconstructionvillage
+  steps:
+  - intent: WherecanIfindnewsandupdatesabouttheconstructionvillage
+  - action: utter_WherecanIfindnewsandupdatesabouttheconstructionvillage1
+  - action: utter_WherecanIfindnewsandupdatesabouttheconstructionvillage2
+  - action: utter_WherecanIfindnewsandupdatesabouttheconstructionvillage3
+
+
+- story: Howoftenarequarterscleanedbystaffmembersattheconstructionvillage
+  steps:
+  - intent: Howoftenarequarterscleanedbystaffmembersattheconstructionvillage
+  - action: utter_Howoftenarequarterscleanedbystaffmembersattheconstructionvillage1
+
+- story: Arevisitorsallowedtoenterintoandstayovernightintheconstructionvillage
+  steps:
+  - intent: Arevisitorsallowedtoenterintoandstayovernightintheconstructionvillage
+  - action: utter_Arevisitorsallowedtoenterintoandstayovernightintheconstructionvillage1
+  - action: utter_Arevisitorsallowedtoenterintoandstayovernightintheconstructionvillage2
+  - action: utter_Arevisitorsallowedtoenterintoandstayovernightintheconstructionvillage3
+
+- story: Arethereanyspecificrulesorregulationsthatmustbefollowedwhilelivinginaconstructionvillage
+  steps:
+  - intent: Arethereanyspecificrulesorregulationsthatmustbefollowedwhilelivinginaconstructionvillage
+  - action: utter_Arethereanyspecificrulesorregulationsthatmustbefollowedwhilelivinginaconstructionvillage1
+  - action: utter_Arethereanyspecificrulesorregulationsthatmustbefollowedwhilelivinginaconstructionvillage2
+  - action: utter_Arethereanyspecificrulesorregulationsthatmustbefollowedwhilelivinginaconstructionvillage3
+  - action: utter_Arethereanyspecificrulesorregulationsthatmustbefollowedwhilelivinginaconstructionvillage4
+
+# - story: 
+#   steps:
+#   - intent: 
+#   - action:
+#   - action:
+#   - action:
+
+# - story: 
+#   steps:
+#   - intent: 
+#   - action:
+#   - action:
+#   - action:
+
+
+# - story: 
+#   steps:
+#   - intent: 
+#   - action:
+#   - action:
+#   - action:
+
+
+# - story: 
+#   steps:
+#   - intent: 
+#   - action:
+#   - action:
+#   - action:
+
+
+# - story: 
+#   steps:
+#   - intent: 
+#   - action:
+#   - action:
+#   - action:
