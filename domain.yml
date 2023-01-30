@@ -32,6 +32,15 @@ intents:
   - Howoftenarequarterscleanedbystaffmembersattheconstructionvillage
   - Arevisitorsallowedtoenterintoandstayovernightintheconstructionvillage
   - Arethereanyspecificrulesorregulationsthatmustbefollowedwhilelivinginaconstructionvillage
+  - Thanks
+  - repeat
+  - ok
+  - OptionsA
+  - OptionsB
+  - OptionsC
+  - OptionsD
+  - OptionsE
+  - Stop
 
 
 
@@ -291,7 +300,24 @@ responses:
   utter_Arethereanyspecificrulesorregulationsthatmustbefollowedwhilelivinginaconstructionvillage4:
   - text: It is important to make sure that any proposed build is in compliance with local ordinances and laws before beginning construction on your house. This includes being aware of the Building Guidelines for the area you are living in as well as any other applicable laws or regulations.
 
-
+  utter_ok:
+  - text: "yes"
+  utter_Thanks:
+  - text: "Thankyou"
+  utter_repeat:
+  - text: "repeat"
+  utter_A:
+  - text: "0"
+  utter_B:
+  - text: "1"
+  utter_C:
+  - text: "2"
+  utter_D:
+  - text: "3"
+  utter_E:
+  - text: "4"
+  utter_Stop:
+  - text: stop
 
   # utter_:
   # - text: 

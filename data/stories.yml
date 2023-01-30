@@ -230,6 +230,52 @@ stories:
   - action: utter_Arethereanyspecificrulesorregulationsthatmustbefollowedwhilelivinginaconstructionvillage3
   - action: utter_Arethereanyspecificrulesorregulationsthatmustbefollowedwhilelivinginaconstructionvillage4
 
+- story: repeat
+  steps:
+  - intent: repeat
+  - action: utter_repeat
+
+- story: ok
+  steps:
+  - intent: ok
+  - action: utter_ok
+
+- story: Stop
+  steps:
+  - intent: Stop
+  - action: utter_Stop 
+
+- story: option A
+  steps:
+  - intent: OptionsA
+  - action: utter_A
+
+- story: option B
+  steps:
+  - intent: OptionsB
+  - action: utter_B
+
+- story: option C
+  steps:
+  - intent: OptionsC
+  - action: utter_C
+
+- story: option D
+  steps:
+  - intent: OptionsD
+  - action: utter_D
+
+- story: option E
+  steps:
+  - intent: OptionsE
+  - action: utter_E
+
+
+- story: Thanks
+  steps:
+  - intent: Thanks
+  - action: utter_Thanks
+
 # - story: 
 #   steps:
 #   - intent: 

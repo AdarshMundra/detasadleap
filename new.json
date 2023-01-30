@@ -1,0 +1,96 @@
+{
+    "question": [
+        {
+            "correctAnswer": "C. Once a year.",
+            "correctAnswerFrontend": "Option C",
+            "correctPostioin": 2,
+            "options": [
+                "A. Once a month",
+                "B. As needed.",
+                "C. Once a year.",
+                "D. Every two years."
+            ],
+            "qid": "7dcc929c66f249c59b6cf32b879c3913",
+            "Question": "How often should fire extinguishers and other emergency equipment be inspected and maintained in a construction village environment?"
+        },
+        {
+            "correctAnswer": "C. They are prohibited from doing so.",
+            "correctAnswerFrontend": "Option C",
+            "correctPostioin": 2,
+            "options": [
+                "A. They are only allowed during specified times.",
+                "B. They must be accompanied by a security guard.",
+                "C. They are prohibited from doing so.",
+                "D. They must register with local authorities first."
+            ],
+            "qid": "7dcc929c66f249c59b6cf32b879s4541",
+            "Question": "What is the policy regarding visitors entering and staying overnight in the construction village?"
+        },
+        {
+            "correctAnswer": "C. Assess the situation before taking commands.",
+            "correctAnswerFrontend": "Option C",
+            "correctPostioin": 2,
+            "options": [
+                "A. Evacuate the construction site immediately.",
+                "B. Provide protection to anyone who needs it.",
+                "C. Assess the situation before taking commands.",
+                "D. Immediately move injured people to another location."
+            ],
+            "qid": "7dcc92945642249c59b6cf32b879s4541",
+            "Question": "What emergency procedures should not be done when there is a construction incident?"
+        },
+        {
+            "correctAnswer": "C. Loose fitting clothing items.",
+            "correctAnswerFrontend": "Option C",
+            "correctPostioin": 2,
+            "options": [
+                "A. Hard hats.",
+                "B. Safety glasses or sunglasses.",
+                "C. Loose fitting clothing items.",
+                "D. All of the above."
+            ],
+            "qid": "7dcc929c66f249c59b6df32b879s4541",
+            "Question": "Which of the following is not required?"
+        },
+        {
+            "correctAnswer": "C. Safety glasses or sunglasses.",
+            "correctAnswerFrontend": "Option C",
+            "correctPostioin": 2,
+            "options": [
+                "A. Driving quickly through the village",
+                "B. Loose fitting clothing items",
+                "C. Safety glasses or sunglasses",
+                "D. Open toed shoes"
+            ],
+            "qid": "7dcc929c66f249c59b6as32b879s4541",
+            "Question": "What safety procedures must be followed in the construction village?"
+        },
+
+        {
+            "correctAnswer": "D. All of the above.",
+            "correctAnswerFrontend": "Option D",
+            "correctPostioin": 3,
+            "options": [
+                "A. Wear reflective clothing and avoid walking alone at night.",
+                "B. Know your way around the village.",
+                "C. Follow instructions and warnings posted in the village.",
+                "D. All of the above."
+            ],
+            "qid": "7dcc929c66f659d59b6df32b879s4541",
+            "Question": "What are the best safety tips for exploring a construction village?"
+        },
+        {
+            "correctAnswer": "B. Weekly.",
+            "correctAnswerFrontend": "Option B",
+            "correctPostioin": 1,
+            "options": [
+                "A. Daily.",
+                "B. Weekly.",
+                "C. Monthly.",
+                "D. Annually"
+            ],
+            "qid": "7dcc92efv6f249c59b6df32b879s4541",
+            "Question": "How often are the quarters at the construction village cleaned?"
+        }
+    ]
+}

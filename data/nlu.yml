@@ -397,7 +397,7 @@ nlu:
     - What is the protocol for cleaning the quarters at the construction village?
 
 
-- intent:  
+- intent: Arevisitorsallowedtoenterintoandstayovernightintheconstructionvillage
   examples: |
     - Are visitors allowed to enter into and stay overnight in the construction village ?
     - Do visitors allowed to enter into and stay overnight in the construction village .
@@ -407,7 +407,7 @@ nlu:
     - Define the term ""Are visitors allowed to enter into and stay overnight in the construction village ?
 
 
-- intent:  
+- intent: Arethereanyspecificrulesorregulationsthatmustbefollowedwhilelivinginaconstructionvillage
   examples: |
     - Are there any specific rules or regulations that must be followed while living in a construction village?
     - what Are the specific rules or regulations that must be followed while living in a construction village?
@@ -420,6 +420,127 @@ nlu:
     - Do you understand the term are there any specific rules or regulations that must be followed while living in a construction village
     - Define the rules and regulations that needs to followed for living in construction villages.
     - why do we needs rules and regulations to be followed for living in construction villages 
+
+- intent: ok
+  examples: |
+    - ok
+    - yes
+    - next
+    - move to the next question
+    - please move
+    - the next question
+    - next question please
+    - next please
+    - move next
+    - show me next question
+    - ya
+    - sure
+    - yes next
+
+- intent: Stop
+  examples: |
+    - Let’s stop the test series.
+    - Let’s finish the test series.
+    - stop the test
+    - stop
+    - finish the test
+    - finish
+
+
+- intent: Thanks
+  examples: |
+    - Thanks
+    - Thank you
+
+- intent: repeat
+  examples: |
+    - repeat
+    - Can you please repeat
+    - Can you please repeat the question
+    - sorry can you please repeat
+    - please repeat the question
+    - please speak the question
+    - tell the question again
+    - repeat the question
+    - show the question
+- intent: OptionsA
+  examples: |
+    - A is the correct Answer
+    - a is correct
+    - Choose A
+    - A
+    - The correct Answer is A
+    - the first one
+    - 1
+    - one is correct
+    - Option A
+    - Option 1
+    - one
+    - The answer is option A
+
+- intent: OptionsB
+  examples: |
+    - B is the correct Answer
+    - B is correct
+    - Choose B
+    - B
+    - Option 2
+    - The correct Answer is B
+    - the second one
+    - 2
+    - two is correct
+    - Option B
+    - Two
+    - The answer is option B
+
+- intent: OptionsC
+  examples: |
+    - C is the correct Answer
+    - C is correct
+    - Choose C
+    - C
+    - Option 3
+    - The correct Answer is C
+    - the third one
+    - 3
+    - three is correct
+    - Option C
+    - Three
+    - The answer is option C
+
+- intent: OptionsD
+  examples: |
+    - D is the correct Answer
+    - D is correct
+    - Choose D
+    - D
+    - Option 4
+    - The correct Answer is D
+    - the forth one
+    - 4
+    - FOUR is correct
+    - Option D
+    - Four
+    - The answer is option D
+
+- intent: OptionsE
+  examples: |
+    - E is the correct Answer
+    - E is correct
+    - Choose E
+    - E
+    - The correct Answer is E
+    - the fifth one
+    - 5
+    - Five is correct 
+    - Option E
+    - Option 5
+    - Five
+    - The answer is option E
+
+
+
+
 
 # - intent:  
 #   examples: |
