@@ -41,6 +41,10 @@ intents:
   - OptionsD
   - OptionsE
   - Stop
+  - greet
+  - goodbye
+  - mood_great
+  - Howareyou
 
 
 
@@ -318,6 +322,18 @@ responses:
   - text: "4"
   utter_Stop:
   - text: stop
+
+  utter_Howareyou:
+  - text: I am doing great.
+  utter_greet:
+  - text: "Hi, my name is Hannah. How are you?"
+  utter_happy:
+  - text: "Great to hear that. How can I Help You"
+  utter_goodbye:
+  - text: "Thankyou, Bye."
+  utter_help:
+  - text: "How can I Help You"
+
 
   # utter_:
   # - text: 

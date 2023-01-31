@@ -276,6 +276,28 @@ stories:
   - intent: Thanks
   - action: utter_Thanks
 
+- story: Greatings
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+
+- story: Howareyou
+  steps:
+  - intent: Howareyou
+  - action: utter_Howareyou
+
+- story: goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+
+- story: greet
+  steps:
+  - intent: greet
+  - action: utter_greet
 # - story: 
 #   steps:
 #   - intent: 
