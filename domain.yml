@@ -47,8 +47,6 @@ intents:
   - Howareyou
 
 
-
-
 responses:
 
   utter_WhatisaWeb3Training&ComplianceSystem1:

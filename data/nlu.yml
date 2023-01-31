@@ -584,6 +584,7 @@ nlu:
     - so so perfect
     - so good
     - so perfect
+
     
 - intent: Howareyou
   examples: |
