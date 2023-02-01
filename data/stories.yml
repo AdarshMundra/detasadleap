@@ -278,8 +278,8 @@ stories:
 
 - story: Greatings
   steps:
-  - intent: greet
-  - action: utter_greet
+  # - intent: greet
+  # - action: utter_greet
   - intent: mood_great
   - action: utter_happy
 
@@ -294,10 +294,10 @@ stories:
   - action: utter_goodbye
 
 
-- story: greet
-  steps:
-  - intent: greet
-  - action: utter_greet
+# - story: greet
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
 
 - story: Whatisedyou
   steps:
