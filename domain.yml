@@ -76,15 +76,15 @@ responses:
   utter_Howwillithelptheconstructionvillageresidents1:
   - text: Web3 Training & Compliance System will enable construction village residents to access secure training resources and certifications that will help them stay up-to-date with the latest technologies and trends in the industry.
   utter_Howwillithelptheconstructionvillageresidents2:
-  - text: With Web3 Training & Compliance System, construction village residents can benefit from enhanced privacy features such as zero-knowledge proofs and cryptographic techniques which allow users to safely share their personal data without worrying about it being compromised.
-  utter_Howwillithelptheconstructionvillageresidents3:
-  - text: Web3 Training & Compliance System can help construction village residents by providing them with the necessary skills and knowledge to adapt to rapidly changing technologies. It covers topics such as smart contracts, Solidity, and other software concepts that are essential for staying up-to-date in the industry.
-  utter_Howwillithelptheconstructionvillageresidents4:
-  - text: Web3 Training & Compliance System also offers online courses from LinkedIn Learning (formerly Lynda.com) which provide construction village residents with the skills they need to stay competitive in their field.
-  utter_Howwillithelptheconstructionvillageresidents5:
-  - text: Additionally, Web3 University provides comprehensive educational resources on blockchain development with tutorials across the web3 ecosystem. This is a great way for construction village residents to learn more about blockchain technology and how it can be applied in their work."
-  utter_Howwillithelptheconstructionvillageresidents6:
   - text: By utilizing immutable ledger technology, Web3 Training & Compliance System ensures that the data is stored securely, making it difficult for malicious actors to tamper with or access sensitive information. This improves safety by reducing the chance of a security breach.
+  utter_Howwillithelptheconstructionvillageresidents3:
+  - text: With Web3 Training & Compliance System, construction village residents can benefit from enhanced privacy features such as zero-knowledge proofs and cryptographic techniques which allow users to safely share their personal data without worrying about it being compromised.
+  utter_Howwillithelptheconstructionvillageresidents4:
+  - text: Web3 Training & Compliance System can help construction village residents by providing them with the necessary skills and knowledge to adapt to rapidly changing technologies. It covers topics such as smart contracts, Solidity, and other software concepts that are essential for staying up-to-date in the industry.
+  utter_Howwillithelptheconstructionvillageresidents5:
+  - text: Web3 Training & Compliance System offers online courses from LinkedIn Learning (formerly Lynda.com) which provide construction village residents with the skills they need to stay competitive in their field.
+  utter_Howwillithelptheconstructionvillageresidents6:
+  - text: Web3 University provides comprehensive educational resources on blockchain development with tutorials across the web3 ecosystem. This is a great way for construction village residents to learn more about blockchain technology and how it can be applied in their work.
 
 
   utter_Whatsafetyapparelisrequiredforworkersintheconstructionvillage1:
@@ -98,7 +98,7 @@ responses:
   utter_Whatsafetyproceduresmustbefollowedintheconstructionvillage1: 
   - text: All construction sites must have a project safety plan in place that outlines the safety procedures to be followed. This plan should include the use of personal protective equipment, proper training for workers, and regular inspections of the worksite.
   utter_Whatsafetyproceduresmustbefollowedintheconstructionvillage2:
-  - text: Workers must also be aware of their surroundings and follow all posted signs and warnings regarding potential hazards. Additionally, workers should use caution when operating machinery or using tools to ensure that they are not putting themselves or others at risk.
+  - text: Workers must be aware of their surroundings and follow all posted signs and warnings regarding potential hazards. Additionally, workers should use caution when operating machinery or using tools to ensure that they are not putting themselves or others at risk.
   utter_Whatsafetyproceduresmustbefollowedintheconstructionvillage3:
   - text: All workers should be familiar with emergency protocols in case of an accident or injury onsite. These protocols should include how to contact emergency services and how to provide first aid if necessary.
 
@@ -114,9 +114,9 @@ responses:
   utter_Whatemergencyproceduresshouldbefollowedincaseofaconstructionincident1:
   - text: In case of a construction incident, it is important to follow the emergency action plan that has been developed for the specific construction site. This plan should include procedures for evacuation, type of evacuation, exit route assignments and other relevant information.
   utter_Whatemergencyproceduresshouldbefollowedincaseofaconstructionincident2:
-  - text: It is also important to stay calm and assess the situation before taking command and providing protection. Aid and manage as necessary to ensure everyone’s safety. 
+  - text: It is important to stay calm and assess the situation before taking command and providing protection. Aid and manage as necessary to ensure everyone’s safety.
   utter_Whatemergencyproceduresshouldbefollowedincaseofaconstructionincident3:
-  - text: Emergency response plans should also include selecting a responsible individual to lead and coordinate the emergency plan and evacuation, as well as identifying potential hazards that could affect the construction project.
+  - text: Emergency response plans should include selecting a responsible individual to lead and coordinate the emergency plan and evacuation, as well as identifying potential hazards that could affect the construction project.
   
   
   utter_HowcanIreportincidentsthatoccurintheconstructionvillage1:
@@ -142,11 +142,11 @@ responses:
 
 
   utter_Whataresomecommonsafetyhazardspresentinaconstructionvillageenvironment1:
-  - text: Electrical shocks and explosions can also be hazardous in construction villages, so contractors and/or safety professionals should ensure that everyone is aware of these risks and follows OSHA regulations to protect against them. 
+  - text: Falls are one of the most common safety hazards present in a construction village environment. Workers should always use personal fall arrest systems, such as wearing a safety harness or installing guardrails, when working 6 feet or higher above the ground. 
   utter_Whataresomecommonsafetyhazardspresentinaconstructionvillageenvironment2:
-  - text: Material handling is another common safety hazard in construction villages, as workers may be required to move or lift heavy objects.
+  - text: Material handling is a common safety hazard in construction villages, as workers may be required to move or lift heavy objects.
   utter_Whataresomecommonsafetyhazardspresentinaconstructionvillageenvironment3:
-  - text: Falls are one of the most common safety hazards present in a construction village environment. Workers should always use personal fall arrest systems, such as wearing a safety harness or installing guardrails, when working 6 feet or higher above the ground.
+  - text: Electrical shocks and explosions can be hazardous in construction villages, so contractors and/or safety professionals should ensure that everyone is aware of these risks and follows OSHA regulations to protect against them.
   
   
   
@@ -196,10 +196,9 @@ responses:
   utter_HowwillAI-PoweredInformationAvatarhelptheresidentsofaconstructionvillage1:
   - text: AI-Powered Information Avatar can help the residents of a construction village by providing them with access to real-time information about the progress of their projects, as well as any updates or changes that may be occurring. This will enable them to stay informed and make better decisions for their future.
   utter_HowwillAI-PoweredInformationAvatarhelptheresidentsofaconstructionvillage2:
-  - text: AI-Powered Information Avatar can also provide the residents of a construction village with personalized advice and guidance on how to best manage their projects and resources. This will help them maximize their efficiency and ensure that they are making the most out of their investments.
+  - text: AI-Powered Information Avatar can provide the residents of a construction village with personalized advice and guidance on how to best manage their projects and resources. This will help them maximize their efficiency and ensure that they are making the most out of their investments.
   utter_HowwillAI-PoweredInformationAvatarhelptheresidentsofaconstructionvillage3:
-  - text: AI-Powered Information Avatar can also provide the residents of a construction village with access to virtual assistants who can answer questions, provide support, and even offer suggestions on how to improve their projects. This will help them save time and money while ensuring that they are getting the best results from their efforts.
-
+  - text: AI-Powered Information Avatar can provide the residents of a construction village with access to virtual assistants who can answer questions, provide support, and even offer suggestions on how to improve their projects. This will help them save time and money while ensuring that they are getting the best results from their efforts.
 
 
   utter_Arethereanyrulesorregulationsregardingsmokingwithintheconfinesofaconstructionvillageenvironment1:
@@ -231,7 +230,7 @@ responses:
   utter_Whatkindoftrainingdoworkersreceivebeforetheyareallowedtoworkinaconstructionvillageenvironment2:
   - text: Construction village safety is taken very seriously, so all workers must be properly trained in order to ensure the safety of everyone involved. This includes learning about the risks associated with the job and how to avoid them, as well as understanding how to use tools and equipment safely.
   utter_Whatkindoftrainingdoworkersreceivebeforetheyareallowedtoworkinaconstructionvillageenvironment3:
-  - text: In addition to receiving training on safety protocols, workers must also be familiar with the local laws and regulations related to construction villages before they are allowed to start working in one. This ensures that everyone is aware of their rights and responsibilities when it comes to protecting themselves and others from potential hazards.
+  - text: Workers must be familiar with the local laws and regulations related to construction villages before they are allowed to start working in one. This ensures that everyone is aware of their rights and responsibilities when it comes to protecting themselves and others from potential hazards.
 
 
   utter_Howoftenshouldfireextinguishersandotheremergencyequipmentbeinspectedandmaintainedwithinaconstructionvillageenvironment1:
@@ -264,7 +263,7 @@ responses:
   utter_Istherealaundryserviceavailableintheconstructionvillage2:
   - text: If you're looking for a reliable laundry service, CleanLine is one of the top choices. They guarantee quality and provide pick-up and delivery services as well. 
   utter_Istherealaundryserviceavailableintheconstructionvillage3:
-  - text: Al Jabr Laundry is also a great option for those living in the construction village. It has five plants that serve more than 500 receiving shops across the Middle East.
+  - text: Al Jabr Laundry is a great option for those living in the construction village. It has five plants that serve more than 500 receiving shops across the Middle East.
 
   utter_HowcanIgetaroundtheconstructionvillagesafely1:
   - text: Make sure to familiarize yourself with the layout of the construction village before you start to explore. Knowing your way around can help you stay safe while navigating through the village.
@@ -277,10 +276,9 @@ responses:
   - text: You can check out the latest updates about the village on the Construction Village website.
 
   utter_Arethereanyentertainmentoractivitiesavailableinthevillage2:
-  - text: You can also watch videos about the Construction Village on YouTube for monthly updates.
-
+  - text: You can watch videos about the Construction Village on YouTube for monthly updates.
   utter_Arethereanyentertainmentoractivitiesavailableinthevillage3:
-  - text: Additionally, you can find news articles and tenders related to the project on Construction Week Online and CNN Style.
+  - text: You can find news articles and tenders related to the project on Construction Week Online and CNN Style.
 
   utter_WherecanIfindnewsandupdatesabouttheconstructionvillage1:
   - text: You can watch the latest updates of Construction Village on YouTube for each month.
