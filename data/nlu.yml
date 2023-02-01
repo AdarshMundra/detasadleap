@@ -594,6 +594,77 @@ nlu:
     - What's up?
   
 
+- intent: Whatisedyou
+  examples: |
+    - What is edyou?
+    - What is edu?
+    - Tell me something about edyou?
+    - Do you know about edyou?
+    - What is edyou about?
+    - what edyou does?
+    - What is the role of edyou?
+    - Tell me something about edu?
+    - Do you know about edu?
+    - What is edu about?
+    - what edu does?
+    - What is the role of edu?
+
+- intent: Whatcareertracksdoesedyouprovide
+  examples: |
+    - What career tracks does edyou provide?
+    - What career tracks does edu provide?
+    - What courses are available?
+    - What courses does edyou provide?
+    - What courses does edu provide?
+    - What courses are available?
+    - Which career tracks is available?
+
+
+- intent: Whichlanguagesdoesedyousupport
+  examples: |
+    - Which languages does edyou support?
+    - What languages do you support?
+    - Which languages can you speak?
+    - What are the languages spoken by you?
+    - Any other language you can speak?
+
+- intent: WhencanIlearn
+  examples: |
+    - When can I learn?
+    - What are the timings of the AI tutor?
+    - Timings for the AI tutor to be available?
+  
+- intent: Whatisthevisionofcompany
+  examples: |
+    - What is the vision of company?
+    - Vision of Company?
+    - What the company vision is?
+    - What is the vision of edyou?
+    - Vision of edyou?
+    - What the edyou vision is?
+    - What is the vision of edu?
+    - Vision of edu?
+    - What the edu vision is?
+- intent: Howwilledyouhelpme
+  examples: |
+    - How will edyou help me?
+    - Is edyou help for me?
+    - How edyou helping me for my future
+    - What is the use of edyou app?
+    - What is the purpose of edyou?
+    - How will edu help me?
+    - Is edu help for me?
+    - How edu helping me for my future
+    - What is the use of edu app?
+    - What is the purpose of edu?
+
+- intent: Whataretheproblemsintheeducationindustrytoday
+  examples: |
+    - What are the problems in the education industry today?
+    - Education industry problems today?
+    - problems in the education industry today?
+
+
 
 
 # - intent:  

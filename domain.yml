@@ -45,6 +45,14 @@ intents:
   - goodbye
   - mood_great
   - Howareyou
+  - Whataretheproblemsintheeducationindustrytoday
+  - Whichlanguagesdoesedyousupport
+  - Whatcareertracksdoesedyouprovide
+  - Howwilledyouhelpme
+  - WhencanIlearn
+  - Whatisthevisionofcompany
+  - Whatisedyou
+  
 
 
 responses:
@@ -332,7 +340,27 @@ responses:
   utter_help:
   - text: "How can I Help You"
 
+  utter_Whatisedyou:
+  - text: e-dee-YOU provides a proprietary AI-driven digital learning solution that is interactive in real time not just recorded. e-dee-YOU is a safe, neutral and effective harvest of AI driven personalities to help alleviate disparities in education and improve learning outcomes. e-dee-YOU has an emphasis on Web3 technology, for motivated people and institutions in an inclusive environment with an encouraging voice helping them feel accomplished, rewarded and pleasantly surprised.
 
+  utter_Howwilledyouhelpme:
+  - text: The arrival of AI is transforming the world of education. With e-dee-YOU you get to leverage the latest in edutech to learn for exams, jobs or passion. I will be like a personal tutor for you, available anytime, helping you learn and grow using my AI capabilities.
+
+  utter_Whatcareertracksdoesedyouprovide:
+  - text: We provide a variety of educational courses in multiple domains including Medical, Engineering, Law etc. In Medical we provide a United States Medical Licensing Examination career track where we prepare you to succeed in the United States Medical Licensing Examination.
+
+  utter_Whichlanguagesdoesedyousupport:
+  - text: Currently we support the English language with a plan to support Spanish, Russian, Hindi, Italian, among others.
+
+  utter_WhencanIlearn:
+  - text: I am available for you any time of the day or week to learn, unlike the regular classes.
+
+  utter_Whatisthevisionofcompany:
+  - text: Our vision is to redefine education for generations to come by creating the world's most immersive and adaptive AI learning experiences.
+
+  utter_Whataretheproblemsintheeducationindustrytoday:
+  - text: 54% of american adults read at the sixth-grade level. 40% of GLOBAL EMPLOYERS CAN NOT RECRUIT WORKERS WITH THE SKILLS THEY NEED. By 2050, the number of lives lost each year would equal to HIV and malaria because of the failure to provide adequate access to quality education. SCHOOLS ACROSS THE UNITED STATES ARE facing a shortage of 300,000 teachers and staff. e-dee-YOU provides a solution to these problems by enabling teachers, school administrators, companies and most important learners with individualized, smart AI education technology that helps people quickly learn and improve their lives.
+  
   # utter_:
   # - text: 
   # utter_:
