@@ -439,8 +439,8 @@ nlu:
 
 - intent: Stop
   examples: |
-    - Let’s stop the test series.
-    - Let’s finish the test series.
+    - Let's stop the test series.
+    - Let's finish the test series.
     - stop the test
     - stop
     - finish the test
@@ -456,7 +456,7 @@ nlu:
   examples: |
     - repeat
     - Can you please repeat
-    - Can you please repeat the question
+    - Can you please repeat the question
     - sorry can you please repeat
     - please repeat the question
     - please speak the question
@@ -617,7 +617,7 @@ nlu:
     - What courses does edyou provide?
     - What courses does edu provide?
     - What courses are available?
-    - Which career tracks is available?
+    - Which career tracks is available?
 
 
 - intent: Whichlanguagesdoesedyousupport
@@ -626,13 +626,13 @@ nlu:
     - What languages do you support?
     - Which languages can you speak?
     - What are the languages spoken by you?
-    - Any other language you can speak?
+    - Any other language you can speak?
 
 - intent: WhencanIlearn
   examples: |
     - When can I learn?
     - What are the timings of the AI tutor?
-    - Timings for the AI tutor to be available?
+    - Timings for the AI tutor to be available?
   
 - intent: Whatisthevisionofcompany
   examples: |
@@ -641,22 +641,22 @@ nlu:
     - What the company vision is?
     - What is the vision of edyou?
     - Vision of edyou?
-    - What the edyou vision is?
+    - What the edyou vision is?
     - What is the vision of edu?
     - Vision of edu?
-    - What the edu vision is?
+    - What the edu vision is?
 - intent: Howwilledyouhelpme
   examples: |
-    - How will edyou help me?
+    - How will edyou help me?
     - Is edyou help for me?
     - How edyou helping me for my future
     - What is the use of edyou app?
-    - What is the purpose of edyou?
-    - How will edu help me?
+    - What is the purpose of edyou?
+    - How will edu help me?
     - Is edu help for me?
     - How edu helping me for my future
     - What is the use of edu app?
-    - What is the purpose of edu?
+    - What is the purpose of edu?
 
 - intent: Whataretheproblemsintheeducationindustrytoday
   examples: |
