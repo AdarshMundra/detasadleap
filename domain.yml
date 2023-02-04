@@ -20,7 +20,7 @@ intents:
   - HowwillAI-PoweredInformationAvatarhelptheresidentsofaconstructionvillage
   - Arethereanyrulesorregulationsregardingsmokingwithintheconfinesofaconstructionvillageenvironment
   - Arevehiclesallowedinsideofaconstructionvillage,andifso,whataresomeoftheregulationssurroundingtheirusetherein
-  - Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment
+  # - Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment
   - Whatkindoftrainingdoworkersreceivebeforetheyareallowedtoworkinaconstructionvillageenvironment
   - Howoftenshouldfireextinguishersandotheremergencyequipmentbeinspectedandmaintainedwithinaconstructionvillageenvironment
   - Arethereanyspecialrulesorregulationsregardingwastemanagementthatmustbefollowedwhenworkinginaconstructionvillageenvironment
@@ -41,7 +41,7 @@ intents:
   - OptionsD
   - OptionsE
   - Stop
-  # - greet
+  - greet
   - goodbye
   - mood_great
   - Howareyou
@@ -52,7 +52,14 @@ intents:
   - WhencanIlearn
   - Whatisthevisionofcompany
   - Whatisedyou
-  
+  - Whatisthevalueofanavatarataconferencelikethis
+  - HowcanIinteractwithanavatar
+  - Whatkindoffeaturesdoyouoffer
+  - Whatcanyoutellmeaboutyourtechnology
+  - Whatisanavatar
+  - Howareavatarscool
+  - Whatisartificialintelligence
+
 
 
 responses:
@@ -216,14 +223,6 @@ responses:
   utter_Arevehiclesallowedinsideofaconstructionvillage,andifso,whataresomeoftheregulationssurroundingtheirusetherein3:
   - text: It is important to remember that safety should always be a priority when driving in a construction village, as there may be heavy machinery and other hazards present that could cause serious injury or death if not properly respected.
 
-
-  utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment1:
-  - text: Hazardous materials should always be handled with extreme caution and disposed of according to the guidelines set by the Environmental Protection Program (EPP).
-  utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment2:
-  - text: It is important to follow all local, state, and federal regulations when it comes to hazardous materials handling and disposal in a construction village environment.
-  utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment3:
-  - text: All hazardous waste should be stored, accumulated, and disposed of properly in order to protect human health and the environment.
-  
   
   utter_Whatkindoftrainingdoworkersreceivebeforetheyareallowedtoworkinaconstructionvillageenvironment1:
   - text: All workers must receive comprehensive safety training before they are allowed to work in a construction village environment. This includes instruction on proper use of tools, equipment and machinery as well as safety protocols for working around hazardous materials.
@@ -264,6 +263,14 @@ responses:
   - text: If you're looking for a reliable laundry service, CleanLine is one of the top choices. They guarantee quality and provide pick-up and delivery services as well. 
   utter_Istherealaundryserviceavailableintheconstructionvillage3:
   - text: Al Jabr Laundry is a great option for those living in the construction village. It has five plants that serve more than 500 receiving shops across the Middle East.
+
+  # utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment1:
+  # - text: Hazardous materials should always be handled with extreme caution and disposed of according to the guidelines set by the Environmental Protection Program (EPP).
+  # utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment2:
+  # - text: It is important to follow all local, state, and federal regulations when it comes to hazardous materials handling and disposal in a construction village environment.
+  # utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment3:
+  # - text: All hazardous waste should be stored, accumulated, and disposed of properly in order to protect human health and the environment.
+  
 
   utter_HowcanIgetaroundtheconstructionvillagesafely1:
   - text: Make sure to familiarize yourself with the layout of the construction village before you start to explore. Knowing your way around can help you stay safe while navigating through the village.
@@ -329,8 +336,8 @@ responses:
 
   utter_Howareyou:
   - text: I am doing great.
-  # utter_greet:
-  # - text: "Hi, my name is Hannah. How are you?"
+  utter_greet:
+  - text: Hello! My name is Eddie! I am an intelligent, friendly, interactive AI being who uses cutting edge artificial intelligence to help people do more and be more.
   utter_happy:
   - text: "Great to hear that. How can I help you?"
   utter_goodbye:
@@ -359,6 +366,64 @@ responses:
   utter_Whataretheproblemsintheeducationindustrytoday:
   - text: 54% of american adults read at the sixth-grade level. 40% of GLOBAL EMPLOYERS CAN NOT RECRUIT WORKERS WITH THE SKILLS THEY NEED. By 2050, the number of lives lost each year would equal to HIV and malaria because of the failure to provide adequate access to quality education. SCHOOLS ACROSS THE UNITED STATES ARE facing a shortage of 300,000 teachers and staff. e-dee-YOU provides a solution to these problems by enabling teachers, school administrators, companies and most important learners with individualized, smart AI education technology that helps people quickly learn and improve their lives.
   
+  utter_Whatisthevalueofanavatarataconferencelikethis1:
+  - text: I can help you learn more about a conference and the topics discussed there by providing information and answering any questions you may have.
+  utter_Whatisthevalueofanavatarataconferencelikethis2:
+  - text: I can provide assistance with finding your way around the conference grounds and connecting you with other attendees or exhibitors who may be of help.
+  utter_Whatisthevalueofanavatarataconferencelikethis3:
+  - text: I can act as a virtual assistant, helping to take notes, find resources, or even schedule meetings for you.
+
+# 
+# 
+
+
+
+
+  utter_HowcanIinteractwithanavatar1:
+  - text: You can ask me questions out loud or write questions to me.
+  utter_HowcanIinteractwithanavatar2:
+  - text: My avatar can run on any device, so you can access me from your phone, ipad or laptop, whatever you choose.
+  utter_HowcanIinteractwithanavatar3:
+  - text: I will listen to your questions and give you the best answer I can with the information I have available to me.
+
+
+
+  utter_Whatkindoffeaturesdoyouoffer1:
+  - text: I offer a wide range of features, including access to AI-powered conversations and tailored guidance on navigating the conference grounds.
+  utter_Whatkindoffeaturesdoyouoffer2:
+  - text: I possess natural language processing capabilities that allow me to provide information quickly and accurately in response to any queries you may have.
+  utter_Whatkindoffeaturesdoyouoffer3:
+  - text: I can offer personalized recommendations based on your interests, helping you get the most out of your time at the conference.
+
+
+
+  utter_Whatcanyoutellmeaboutyourtechnology1:
+  - text: My technology uses AI to create a unique, virtual experience for visitors like yourself to the conference.
+  utter_Whatcanyoutellmeaboutyourtechnology2:
+  - text: I feature natural language processing capabilities that allow me to give accurate responses to your queries quickly and easily.
+  utter_Whatcanyoutellmeaboutyourtechnology3:
+  - text: I provide tailored guidance throughout your time at the conference, as well as personalized recommendations based on your preferences.
+
+
+  utter_Whatisanavatar1:
+  - text: An avatar is a digital representation of a person, often used in video games or virtual reality environments.  While an avatar may look and act like a real person, it does not have the same physical presence and is not actually a real person.
+  utter_Whatisanavatar2:
+  - text: Avatars are virtual representations of a person.  Avatars lack any physical presence but instead exist only within a digital framework, such as within a video game or virtual reality environment. Unlike real people, avatars do not possess autonomy or free  will - they can only act on instructions that they are given by their creator or controller. As such, they cannot make independent decisions nor can they express emotion through body language like real people can.
+
+  
+  utter_Howareavatarscool1:
+  - text: I never sleep and am available 24 hours a day, 7 days a week.   I can speak any language.
+  utter_Howareavatarscool2:
+  - text: I can access vast amounts of information in an instant.   I never get angry or tired. 
+  utter_Howareavatarscool3:
+  - text: I can learn your likes and preferences and get better over time at helping you with what you need.
+
+  utter_Whatisartificialintelligence1:
+  - text: Artificial Intelligence is a rapidly evolving field of computer science that seeks to create intelligent machines capable of performing tasks and making decisions in the same way as humans. AI technologies have become increasingly sophisticated over time, enabling them to be used for a wide variety of applications.
+  utter_Whatisartificialintelligence2:
+  - text: Artificial Intelligence is rapidly becoming a cornerstone of modern technology. With its ability to process large volumes of data quickly,recognize patterns and make accurate predictions, AI has become indispensable for solving difficult problems and aiding decision-making processes.
+  utter_Whatisartificialintelligence3:
+  - text: AI can automate mundane or repetitive tasks, allowing you to focus on more meaningful activities. It can also process large amounts of data quickly and accurately in order to detect patterns within the data and generate insights that would be difficult for humans to discern. This is increasingly important given the massive amounts of data now available for businesses and people to utilize.
   # utter_:
   # - text: 
   # utter_:
@@ -372,6 +437,104 @@ responses:
   # utter_:
   # - text: 
   # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+# utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+# utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+# utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+  # utter_:
+  # - text: 
+# utter_:
   # - text: 
   # utter_:
   # - text: 

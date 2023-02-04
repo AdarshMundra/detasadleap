@@ -144,12 +144,12 @@ stories:
   - action: utter_Arevehiclesallowedinsideofaconstructionvillage,andifso,whataresomeoftheregulationssurroundingtheirusetherein2
   - action: utter_Arevehiclesallowedinsideofaconstructionvillage,andifso,whataresomeoftheregulationssurroundingtheirusetherein3
 
-- story: Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment
-  steps:
-  - intent: Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment
-  - action: utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment1
-  - action: utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment2
-  - action: utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment3
+# - story: Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment
+#   steps:
+#   - intent: Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment
+#   - action: utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment1
+#   - action: utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment2
+#   - action: utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment3
 
 
 
@@ -336,6 +336,67 @@ stories:
 
 
 
+- story: Whatisthevalueofanavatarataconferencelikethis
+  steps:
+  - intent: Whatisthevalueofanavatarataconferencelikethis
+  - action: utter_Whatisthevalueofanavatarataconferencelikethis1
+  - action: utter_Whatisthevalueofanavatarataconferencelikethis2
+  - action: utter_Whatisthevalueofanavatarataconferencelikethis3
+
+- story: HowcanIinteractwithanavatar
+  steps:
+  - intent: HowcanIinteractwithanavatar
+  - action: utter_HowcanIinteractwithanavatar1
+  - action: utter_HowcanIinteractwithanavatar2
+  - action: utter_HowcanIinteractwithanavatar3
+
+
+- story: Whatkindoffeaturesdoyouoffer
+  steps:
+  - intent: Whatkindoffeaturesdoyouoffer
+  - action: utter_Whatkindoffeaturesdoyouoffer1
+  - action: utter_Whatkindoffeaturesdoyouoffer2
+  - action: utter_Whatkindoffeaturesdoyouoffer3
+
+
+- story: Whatcanyoutellmeaboutyourtechnology
+  steps:
+  - intent: Whatcanyoutellmeaboutyourtechnology
+  - action: utter_Whatcanyoutellmeaboutyourtechnology1
+  - action: utter_Whatcanyoutellmeaboutyourtechnology2
+  - action: utter_Whatcanyoutellmeaboutyourtechnology3
+
+
+- story: Whatisanavatar
+  steps:
+  - intent: Whatisanavatar
+  - action: utter_Whatisanavatar1
+  - action: utter_Whatisanavatar2
+
+
+
+- story: Howareavatarscool
+  steps: 
+  - intent: Howareavatarscool
+  - action: utter_Howareavatarscool1
+  - action: utter_Howareavatarscool2
+  - action: utter_Howareavatarscool3
+
+
+- story: Whatisartificialintelligence
+  steps:
+  - intent: Whatisartificialintelligence
+  - action: utter_Whatisartificialintelligence1
+  - action: utter_Whatisartificialintelligence2
+  - action: utter_Whatisartificialintelligence3
+
+#   steps:
+#   - intent: 
+#   - action:
+#   - action:
+#   - action:
+
+
 # - story: 
 #   steps:
 #   - intent: 
@@ -343,7 +404,34 @@ stories:
 #   - action:
 #   - action:
 
+#   steps:
+#   - intent: 
+#   - action:
+#   - action:
+#   - action:
+
+
 # - story: 
+#   steps:
+#   - intent: 
+#   - action:
+#   - action:
+#   - action:
+
+#   steps:
+#   - intent: 
+#   - action:
+#   - action:
+#   - action:
+
+
+# - story: 
+#   steps:
+#   - intent: 
+#   - action:
+#   - action:
+#   - action:
+
 #   steps:
 #   - intent: 
 #   - action:
@@ -359,7 +447,6 @@ stories:
 #   - action:
 
 
-# - story: 
 #   steps:
 #   - intent: 
 #   - action:

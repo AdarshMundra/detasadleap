@@ -258,17 +258,17 @@ nlu:
 
 
 
-- intent: Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment
-  examples: |
-    -How should hazardous materials be handled and disposed of within a construction village environment?
-    -What are the guidelines for handling and disposing of hazardous materials in a construction village environment?
-    - Are there any specific laws or regulations for the disposal of hazardous materials in construction villages ?
-    - How can workers ensure the safe handling and disposal of hazardous materials in a construction village?
-    - What is the recommended method for disposing of hazardous materials in a construction village environment?
-    - How should hazardous waste be stored and transported within a construction village?
-    - Are there any specific training programs for workers in construction villages for handling and disposing of hazardous materials?
-    - How does the process of handling and disposing of hazardous materials differ in a construction village compared to other environments?
-    - Are there any resources available to learn about proper hazardous materials handling and disposal practices in a construction village?
+# - intent: Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment
+#   examples: |
+#     - How should hazardous materials be handled and disposed of within a construction village environment?
+#     - What are the guidelines for handling and disposing of hazardous materials in a construction village environment?
+#     - Are there any specific laws or regulations for the disposal of hazardous materials in construction villages ?
+#     - How can workers ensure the safe handling and disposal of hazardous materials in a construction village?
+#     - What is the recommended method for disposing of hazardous materials in a construction village environment?
+#     - How should hazardous waste be stored and transported within a construction village?
+#     - Are there any specific training programs for workers in construction villages for handling and disposing of hazardous materials?
+#     - How does the process of handling and disposing of hazardous materials differ in a construction village compared to other environments?
+#     - Are there any resources available to learn about proper hazardous materials handling and disposal practices in a construction village?
 
 
 
@@ -340,9 +340,6 @@ nlu:
 
 
 
-
-
-
 - intent: HowcanIgetaroundtheconstructionvillagesafely 
   examples: |
     - How can I get around the construction village safely?
@@ -363,7 +360,7 @@ nlu:
 - intent: Arethereanyentertainmentoractivitiesavailableinthevillage
   examples: |
     - Are there any entertainment or activities available in the village?
-    -  Entertainment or activities available in village
+    - Entertainment or activities available in village
     - what are the entertainment or activities available in the village?
     - What kind of recreational activities are available in the village?
     - Are there any amenities for entertainment in the village?
@@ -538,21 +535,20 @@ nlu:
     - Five
     - The answer is option E
 
-# - intent: greet
-#   examples: |
-#     - hey
-#     - hello
-#     - hi
-#     - hello there
-#     - good morning
-#     - good evening
-#     - moin
-#     - hey there
-#     - let's go
-#     - hey dude
-#     - goodmorning
-#     - goodevening
-#     - good afternoon
+- intent: greet
+  examples: |
+    - Hi
+    - Hi there
+    - Hello
+    - Hello there
+    - Good morning
+    - Good afternoon
+    - Good evening
+    - Greetings
+    - As-salaam alykum
+    - Ahlan
+    - Marhaba
+    - Who are you?
 
 - intent: goodbye
   examples: |
@@ -571,6 +567,7 @@ nlu:
   examples: |
     - perfect
     - great
+    - good
     - amazing
     - feeling like a king
     - wonderful
@@ -578,10 +575,6 @@ nlu:
     - I am great
     - I am good
     - I am amazing
-    - I am going to save the world
-    - super stoked
-    - extremely good
-    - so so perfect
     - so good
     - so perfect
 
@@ -667,33 +660,73 @@ nlu:
 
 
 
-# - intent:  
-#   examples: |
+- intent: Whatisthevalueofanavatarataconferencelikethis
+  examples: |
+    - What is the value of an avatar at a conference like this?
+    - What can an avatar do for me?
+    - How can an avatar help me?
+    - Is avatar helpful to me?
+    - Explain how avatar is helpful.
+    - Why avatar is helpful these days.
+    - What assistance can a avatar provides at conference?
+
+- intent: HowcanIinteractwithanavatar
+  examples: |
+    - How can I interact with an avatar?
+    - How do i ask questions to you?
+    - How do avatars work?
+    - How avatar interact to us ?
+    - Explain how avatar is interactive.
+    - How can I communciate with an avatar ?
+    - On what devices can avatar run?
 
 
-# - intent:  
-#   examples: |
+- intent: Whatkindoffeaturesdoyouoffer
+  examples: |
+    - What kind of features do you offer?
+    - What functionality can I access through the avatar?
+    - Explain the different features of it .
+    - What are the features we are getting?
 
 
-# - intent:  
-#   examples: |
+
+- intent: Whatcanyoutellmeaboutyourtechnology
+  examples: |
+    - What can you tell me about your technology?
+    - What's different about your technology?
+    - How its is different from other technology?
+    - What are the features used in your technology?
+    - What experience do the user will get by this technology?
+    - How is your language generation different from others?
+
+- intent: Whatisanavatar
+  examples: |
+    - What is an avatar?
+    - Are you a person?
+    - What does an avatar do?
+    - What is the use of avatar ?
+    - Can we interact with avatar in real time ?  
 
 
 
-# - intent:  
-#   examples: |
+- intent:  Howareavatarscool
+  examples: |
+    - What's so special about you?
+    - What can you do that i can't?
+    - How are avatars cool?
+    - What amount of information you provides?
+    - Tell me what is special about this platform.
 
-
-# - intent:  
-#   examples: |
-
-
-# - intent:  
-#   examples: |
-
-
-# - intent:  
-#   examples: |
+- intent: Whatisartificialintelligence
+  examples: |
+    - What is artificial intelligence?
+    - Why is artificial intelligence important?
+    - What can artificial intelligence do?
+    - Can you explain what is meant by AI?
+    - What is the concept of AI?
+    - What is the meaning of AI?
+    - What is AI and how does it work?
+    - What is the importance of artificial intelligence in today's world?
 
 
 # - intent:  
