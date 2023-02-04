@@ -20,7 +20,7 @@ intents:
   - HowwillAI-PoweredInformationAvatarhelptheresidentsofaconstructionvillage
   - Arethereanyrulesorregulationsregardingsmokingwithintheconfinesofaconstructionvillageenvironment
   - Arevehiclesallowedinsideofaconstructionvillage,andifso,whataresomeoftheregulationssurroundingtheirusetherein
-  # - Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment
+  - Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment
   - Whatkindoftrainingdoworkersreceivebeforetheyareallowedtoworkinaconstructionvillageenvironment
   - Howoftenshouldfireextinguishersandotheremergencyequipmentbeinspectedandmaintainedwithinaconstructionvillageenvironment
   - Arethereanyspecialrulesorregulationsregardingwastemanagementthatmustbefollowedwhenworkinginaconstructionvillageenvironment
@@ -264,12 +264,12 @@ responses:
   utter_Istherealaundryserviceavailableintheconstructionvillage3:
   - text: Al Jabr Laundry is a great option for those living in the construction village. It has five plants that serve more than 500 receiving shops across the Middle East.
 
-  # utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment1:
-  # - text: Hazardous materials should always be handled with extreme caution and disposed of according to the guidelines set by the Environmental Protection Program (EPP).
-  # utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment2:
-  # - text: It is important to follow all local, state, and federal regulations when it comes to hazardous materials handling and disposal in a construction village environment.
-  # utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment3:
-  # - text: All hazardous waste should be stored, accumulated, and disposed of properly in order to protect human health and the environment.
+  utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment1:
+  - text: Hazardous materials should always be handled with extreme caution and disposed of according to the guidelines set by the Environmental Protection Program (EPP).
+  utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment2:
+  - text: It is important to follow all local, state, and federal regulations when it comes to hazardous materials handling and disposal in a construction village environment.
+  utter_Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment3:
+  - text: All hazardous waste should be stored, accumulated, and disposed of properly in order to protect human health and the environment.
   
 
   utter_HowcanIgetaroundtheconstructionvillagesafely1:

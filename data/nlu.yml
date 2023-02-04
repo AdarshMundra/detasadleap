@@ -258,17 +258,17 @@ nlu:
 
 
 
-# - intent: Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment
-#   examples: |
-#     - How should hazardous materials be handled and disposed of within a construction village environment?
-#     - What are the guidelines for handling and disposing of hazardous materials in a construction village environment?
-#     - Are there any specific laws or regulations for the disposal of hazardous materials in construction villages ?
-#     - How can workers ensure the safe handling and disposal of hazardous materials in a construction village?
-#     - What is the recommended method for disposing of hazardous materials in a construction village environment?
-#     - How should hazardous waste be stored and transported within a construction village?
-#     - Are there any specific training programs for workers in construction villages for handling and disposing of hazardous materials?
-#     - How does the process of handling and disposing of hazardous materials differ in a construction village compared to other environments?
-#     - Are there any resources available to learn about proper hazardous materials handling and disposal practices in a construction village?
+- intent: Howshouldhazardousmaterialsbehandledanddisposedofwithinaconstructionvillageenvironment
+  examples: |
+    - How should hazardous materials be handled and disposed of within a construction village environment?
+    - What are the guidelines for handling and disposing of hazardous materials in a construction village environment?
+    - Are there any specific laws or regulations for the disposal of hazardous materials in construction villages ?
+    - How can workers ensure the safe handling and disposal of hazardous materials in a construction village?
+    - What is the recommended method for disposing of hazardous materials in a construction village environment?
+    - How should hazardous waste be stored and transported within a construction village?
+    - Are there any specific training programs for workers in construction villages for handling and disposing of hazardous materials?
+    - How does the process of handling and disposing of hazardous materials differ in a construction village compared to other environments?
+    - Are there any resources available to learn about proper hazardous materials handling and disposal practices in a construction village?
 
 
 
